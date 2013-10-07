@@ -12,7 +12,8 @@ data generation:
 * generate pair with all antecedent objects in the conversation
 
 Feature:
-* phrase-level: grammar function, depth in parsing tree
+* phrase-level: grammar function, depth in parsing tree 
+  (from stanford parser, not use dependency feature yet)
 * coreference-level:distance (words, objects, speaker_turns)
 
 learning approach:
@@ -37,3 +38,6 @@ Weighted Avg. 0.954 0.831 0.941 0.954 0.938 0.675
 Feature importance based on Information Gain:
 * ate_grammar > ana_grammar > object_dist > word_dist > speaker_turns 
 >ate_dep>ana_dep
+
+Detailed prediction result on test set:
+* ErrorAnalysis/train10-test5-DT/raw_test.error
