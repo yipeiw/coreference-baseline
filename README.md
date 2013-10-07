@@ -8,8 +8,9 @@ utterance segmentation:
 * when overlapping, if time is continuous, merge the fragments (reduce 20% segments than without merging)
 
 data generation:
-* consider word token in pronoun list as candidates required resolution
-* generate pair with all antecedent objects in the conversation
+* consider word token appeared in the pronoun list as candidates required resolution, excluding first person and second person
+* generate pair with all antecedent objects in the conversation; 
+*If antecedent is pronoun, skip; (but 2/3 objects doesn't have clear mentions and they are often singletons)
 
 Feature:
 * phrase-level: grammar function, depth in parsing tree 
