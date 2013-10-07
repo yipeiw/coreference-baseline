@@ -4,19 +4,19 @@ coreference-baseline
 implemented system refer to "a machine learning approach for pronoun resolution in spoken document"
 
 utterance segmentation: 
---use speaker turns;
---when overlapping, if time is continuous, merge the fragments (reduce 20% segments than without merging)
+* use speaker turns;
+* when overlapping, if time is continuous, merge the fragments (reduce 20% segments than without merging)
 
 data generation:
---consider word token in pronoun list as candidates required resolution
---generate pair with all antecedent objects in the conversation
+* consider word token in pronoun list as candidates required resolution
+* generate pair with all antecedent objects in the conversation
 
 Feature:
-phrase-level: grammar function, depth in parsing tree
-coreference-level:distance (words, objects, speaker_turns)
+* phrase-level: grammar function, depth in parsing tree
+* coreference-level:distance (words, objects, speaker_turns)
 
 learning approach:
-weka J48 decision tree (not resampling for avoiding unbalance)
+* weka J48 decision tree (not resampling for avoiding unbalance)
 
 Initial result:
 20%-30% object annotation include pronoun
@@ -35,5 +35,5 @@ Weighted Avg. 0.954 0.831 0.941 0.954 0.938 0.675
     525 143876 | b = False
 
 Feature importance based on Information Gain:
-ate_grammar > ana_grammar > object_dist > word_dist > speaker_turns 
+* ate_grammar > ana_grammar > object_dist > word_dist > speaker_turns 
 >ate_dep>ana_dep
