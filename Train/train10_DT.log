@@ -1744,8 +1744,8 @@ Number of Leaves  : 	1201
 Size of the tree : 	1737
 
 
-Time taken to build model: 12.04 seconds
-Time taken to test model on training data: 0.95 seconds
+Time taken to build model: 17.03 seconds
+Time taken to test model on training data: 1.1 seconds
 
 === Error on training data ===
 
@@ -1757,6 +1757,14 @@ Root mean squared error                  0.1868
 Relative absolute error                 74.6218 %
 Root relative squared error             86.3864 %
 Total Number of Instances           151873     
+
+
+=== Detailed Accuracy By Class ===
+
+               TP Rate   FP Rate   Precision   Recall  F-Measure   ROC Area  Class
+                 0.255     0.002      0.86      0.255     0.393      0.791    True
+                 0.998     0.745      0.963     0.998     0.98       0.791    False
+Weighted Avg.    0.961     0.709      0.958     0.961     0.951      0.791
 
 
 === Confusion Matrix ===
@@ -1777,6 +1785,14 @@ Root mean squared error                  0.2053
 Relative absolute error                 86.9677 %
 Root relative squared error             94.9052 %
 Total Number of Instances           151873     
+
+
+=== Detailed Accuracy By Class ===
+
+               TP Rate   FP Rate   Precision   Recall  F-Measure   ROC Area  Class
+                 0.126     0.004      0.642     0.126     0.21       0.675    True
+                 0.996     0.874      0.957     0.996     0.976      0.675    False
+Weighted Avg.    0.954     0.831      0.941     0.954     0.938      0.675
 
 
 === Confusion Matrix ===

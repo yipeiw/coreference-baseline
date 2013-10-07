@@ -13,7 +13,7 @@ modelfile="$modelPath/train10_DT.model"
 logfile=train10_DT.log
 log2=train10_test5.log
 
-#echo "$DT -t $trainfile -x 5 -d $modelfile > $logfile"
-#$DT -t $trainfile -x 5 -d $modelfile -i > $logfile
-echo "$DT -T $testfile -l $modelfile -p 0>$log2"
-$DT -T $testfile -l $modelfile -p 0 > $log2
+echo "$DT -t $trainfile -x 5 -d $modelfile -i > $logfile"
+$DT -t $trainfile -x 5 -d $modelfile -i > $logfile
+#echo "$DT -T $testfile -l $modelfile -p 0>$log2"
+#$DT -T $testfile -l $modelfile -p 0 > $log2
