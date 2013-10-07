@@ -1,0 +1,769 @@
+where would you like to go.
+ohh no.
+ohh.
+no yeah ask your in-car assistant for some suggestions.
+suggestions yeah.
+where what's the suggestion where do you want to go Vishwa.
+yes.
+yeah you want to go.
+where do I want to go well I'm.
+yes.
+new here where do I want to go.
+yes so you have four possibilities you can go to the conference center a bowling alley the commissary or a museum.
+let's go to the museum.
+okay so do you need directions to the museum.
+yes I do.
+okay so let's pull out of the parking lot I now give you directions.
+does it stay.
+does it have to stay in gear.
+no no no it's.
+or do you just let it.
+changing then up there you see that you are ohh okay the b- window behind you don't shut it all the way if you want you can shut it more.
+I won't touch it.
+okay.
+okay.
+ohh got the curb a little we'll just turn and oops there's more curb there okay.
+so we leave the parking lot you make a left at the first intersection.
+okay ohh it's a little ohh I'm gonna move up a little there we go so we are going to the museum is that correct.
+yes.
+alrighty.
+we are going to the museum so we follow the road all the way to the end.
+okay.
+ohh my seat belt.
+ohh braking the that's great that's the police he'll pull us over.
+okay.
+so you like it at Moffett Field.
+yes I think it's.
+so are you trying to what is the what is the study Vishwa trying to understand interactions or.
+build a system build an intelligent agent.
+ohh.
+so we're trying to build an intelligent agent for the next generation of car navigation plus you know your interaction no what the kinds of interactions that you can have with the car.
+so where am I going now.
+so the museum is on the left hand side.
+left up.
+over here.
+there.
+so we make a left at the next T junction and then park when it's convenient.
+alright.
+we can we could have parked there Dan sorry I should have told.
+that's okay.
+you.
+we can look around we can pull I wanted to I've always wanted to see this.
+I'm curious.
+okay.
+this used to be that's the front nose that was the radar system for the P threes did you know.
+ohh I didn't know that the Orion.
+those were called those were called the sub searchers.
+the.
+P three Orion I see.
+and the this was the biggest West Coast base for the sub searchers so these.
+guys would fly out from here all up and down the Pacific looking for soviet subs.
+interesting.
+and the radar equipment was in the nose.
+I see.
+and so the idea was is that they were too close to have the doors underneath and the bomb gates would open they'd drop a bomb on.
+I.
+the soviet sub so so very c- this is cool okay so we're.
+see I see.
+supposed to park do we want to park on the other side.
+yeah we have to.
+park.
+on the.
+no we can park on this side actually.
+okay let me whip it around ohh that's.
+so we can.
+handicapped parking.
+park on the left hand side okay.
+I'll move it out of the handicapped just in case.
+alright it's a little the car is a little heavy I noticed.
+ohh it is.
+it feels like it's.
+ohh I see.
+okay.
+maybe just put it in park and don't turn off the car.
+no no how do you put it in what am I in I'm in drive.
+park.
+drive I wonder how this thing works.
+and that should be neutral there we go okay.
+okay.
+alright so now what are we doing.
+so now.
+that we are done with the museum I hope you had a.
+ohh.
+good time at the museum.
+wonderful informative.
+excellent.
+I have some errands first up send a postcard your go to the post office next up to the gym go to the gym after the gym okay so we're gonna go to the post office how do we get to the post office from here.
+I'll give you directions to the post office so next pull out of the parking lot.
+okay we'll go that way I guess.
+and then we make a left at that intersection yes.
+okay ohh there we go.
+yeah.
+alrighty.
+yeah so we're building the next car next generation in car navigation and I.
+ohh okay.
+I need to in fact after all I keep saying navigation but it's much more than that you should be able to do things like get assistance from the in-car assistant like the way you'd get assistance from a friend make a left at this intersection.
+okay.
+like to give you a very simple example it could very well be that you have to run an errand and you have to go past your house you have to you're you're you're in Moffett and then you have to get to the nearest post office so instead of giving you directions to the nearest post office the system could say let's go to your house first and from there I'll give you directions because that is a waypoint.
+ohh okay.
+the system automatically f- should figure it out so it should be minimally intrusive so whatever we make a right at this intersection and the post office is on the left hand side after we make the right.
+okay do we want to pull in the driveway or.
+yes so we.
+we'll go right here.
+make the first left into the parking lot.
+alright I never you know never been here ohh and park.
+and park.
+I'm hungry let's go to McDonald's isn't that where we're supposed to go.
+and then burn it off and then go to the gym.
+the other way around unfortunately we should have.
+ohh we're gonna go to.
+the gym and then feel guilty.
+yes.
+ohh okay so it takes a little bit for it to go into neutral you have some err- okay so we're gonna go to the gym so let's spend a minute here wow you know I've never gone this far back I don't walk.
+really.
+around here I don't walk around the.
+I see.
+I.
+place.
+see.
+I just go up to the front it's still when I started here in September for the first few months it took me a while to get used to being on Moffett Field I grew up here.
+ahh.
+so Moffett.
+no that's what I.
+Field was the active navy base when I was here I lived five minutes away ten minutes away to my dad's house from here we were right in the pattern of the flight patterns and we'd see the P threes all day long so.
+thought.
+I see.
+it was kind of weird coming through here all the time it was like okay alright we're done our errand we've dropped off the mail now I need to go to the gym I need to get a workout in.
+wow.
+yes.
+okay.
+where how do we go to the gym.
+so let's leave the parking lot I'll give you directions to the gym.
+okay okay there I see so you have to let it sit for a second when you move it up so it clicks.
+ohh I see.
+in.
+then you go there we go.
+okay.
+interesting what kind of car is this this is a what.
+you have a notification you have low gas so.
+ohh.
+ohh where's the nearest gas station.
+I'll give you directions to the nearest gas station.
+so we'll go there first.
+okay.
+tell me which way to go.
+make a right at this intersection.
+okay alright.
+go past the stop sign.
+okay.
+so the little indicator comes on and says you're low on gas.
+yes I mean we can in- initiate it to a.
+ohh well no no I know you do but I'm just saying but that's the idea.
+yeah yeah.
+that's the idea yeah yeah yeah.
+straight.
+straight.
+okay.
+yeah yeah yeah so there is some leeway in how we interact with the driver.
+ohh.
+and that is important because many a times we can give so many different signals to the driver and see how they react.
+okay.
+so that's the purpose so we make a left at this intersection yeah so you're a lo- you're a local I thought as much because I mean you know the moment you started talking about the audience I knew.
+I.
+Stacy and I are the ones that are local here we grew up here she grew up in Campbell and I grew up in Sunnyvale.
+that.
+ohh I see.
+okay here.
+make a right here the gas station is on the right hand side.
+alrighty.
+alright and the gas tank is on the driver's side.
+yes.
+thank you.
+that's a good.
+alright so we'll park for a few minutes notice that our gas is going down in price ah there we go very cool okay so where is ohh there's the parking brake alright get gas cool yeah this is all if you they'll never if you go up by the golf course I had a friend her her when I coached at Foothill her father was the last base commander here and so we drove around the perimeter road with another person and it was like all the stuff you don't want to know it out on the back side they'll never.
+ohh really.
+this is they'll never clean this up completely ohh yeah.
+ohh.
+ohh yeah there's all.
+don't tell.
+me.
+kinds of stuff dumped here.
+really.
+yeah.
+no I knew that this was it's one of those whatever those what were those Superfund sites.
+Superfund.
+sites.
+ohh yeah.
+and there are all kinds of crazy things over here but.
+ohh.
+over.
+back on.
+I didn't.
+know where they had kept all those things.
+back by the trees over there is supposedly where the bomb shelters were.
+ohh I see.
+and then that's where they dumped a bunch of the stuff like the nuc- like the waste or whatever the chemicals.
+really.
+yeah that's what they said.
+so that's it's so close actually.
+yeah.
+somebody was just saying they read an article that there's stuff seeping under the ground and it's all ohh.
+yeah.
+contaminating water.
+yeah.
+I'm sure.
+ohh yeah.
+no I am positive because in one of the buildings that I used to work in before when I was in UCSC UCSC had an older building there and we had big notices there we had to sign a waiver saying that we were aware of the fact that this water was Superfund.
+ohh yeah.
+there are chemicals and the water temperature had been abnormally you know increased so that we could but there was legion- you know legionella in the water.
+ohh.
+so they were saying that they increased yeah so they increased temperature.
+lovely.
+well supposedly in twenty thirteen there's still somebody said there's still asbestos in there I mean I grew up with it and there's yeah.
+crazy.
+I'm not surprised.
+oh there is asbestos in nineteen.
+yeah I mean in nine yeah.
+I mean it's just yeah I mean you go out on the other side you'd go past the golf course the perimeter road you couldn't go to it we went around because she was the daughter of the base commander but just all back there you c- you used to be able to see it that's where they would have shove- we knew when we were kids growing up.
+I see.
+it was a cold war was going on that this was going to be one of the first areas hit because one it was you know the start of Silicon Valley but two because we had Moffett h- Field here and it.
+was a big West Coast base so yeah it's interesting to see how the area's changed alright so now I have to go burn off.
+no.
+I have to go get my workout so I can go eat where's the gym where are we headed to.
+okay.
+I will give you directions to the gym so let's leave the gas station and then.
+alright.
+out this way.
+we can go out that way.
+alright yeah when the gas sh- crisis was going on all the base people would come here and get their gas.
+ohh it's cheaper subsidized highly subsidized.
+ohh.
+yeah.
+they had the commissary here and they shop at and things like that.
+ah.
+I see.
+left.
+left.
+alrighty yeah you used to once a year you could come on the base they had the the the open house which was the air show.
+I see.
+it's amazing how big this thing is when you're in the inside they'd have plen- it it would fit one blimp but all the they'd bring in a bunch of the planes and you could walk around in the planes in there.
+ohh they would be on the I see.
+they'd be inside the hangar it was pretty cool alright so where is the gym where we heading to.
+I see I see.
+so for the gym I'll give you directions to the gym.
+okay.
+you go straight on this road.
+alrighty how long have you been in the.
+in the Valley I've been for seventeen years I came in ninety five.
+yeah.
+ohh God it's weird to say that ninety five was seventeen years ago.
+good grief.
+no but it must have been quite interesting because I have this old this book of the Bay Area the way it was parts of it in the gym is on the left hand side just after the swimming pool.
+okay.
+so we can make a left at this junction and park on the right hand side.
+okay ohh right here on the right what a wonderful gym ohh yeah you know if you go it's kind of funny my great gr- if you go to San Antonio.
+it used to just dead end on one oh one my great grandparents had property out there.
+so the state when they were building w- one ohh one took part of their property as imminent domain gave them a hell of a lot of money.
+yeah.
+ohh they did.
+for.
+ohh.
+yeah yeah for taking it over so it's kind of weird where you go over.
+that's good.
+well they had orchards.
+ohh yeah my gr- my parents grew up my dad grew up in Mountain View my mom grew up in Sunnyvale.
+in Mountain View and they used to tell us they told us you know and they it was all orchards apricots were the big thing here.
+yeah.
+and.
+and they'd.
+make.
+apricot trees.
+ohh yeah.
+even now I have a friend of mine that has one of those original apricot trees.
+ohh really.
+ohh my God and they're laden.
+ohh yeah.
+I it's i-.
+if you.
+it's the best apricots that you can eat.
+this was some of the most fertile ground.
+yes yes yes yes.
+which we it's amazing that we've we've asphalted over some of the most fertile ground I mean you used to go out f- s- you know two thirty seven here.
+used to run there was no overpass so it used to be right out here it'd cross you know one ohh one I think was there an overpass there there might have been right there but at like First Street when you go out if you go out the ba- Ellis Street gate and you make a left there used to be a stop light right there you that's where you cross two thirty seven there.
+used to be a little there the corner was there if you went down Matilda or sorry not Matilda if you went down to Central Expressway and Central Expressway where Mary is that all used to be hothouses.
+they grew all kinds of flowers there now it's all planted over my parents worked in the orchards they'd get a nickel for a bucket of apricots.
+I mean pick and pick the apricots all day long during the summertime if you go down Central Expressway towards downtown Sunnyvale and you take where you can get to Matilda you'll see a big water tower there it's a Libby's can.
+Libby's used to be I don't know if they're still in business it was a fruit company.
+and it was canned fruit and stuff so it was Libby's Libby's Libby's on the label label label.
+they had their little jingle yeah and out in San Jose down towards.
+ohh my.
+Bird.
+God.
+that was Del Monte I mean it was just yeah it was all agriculture it was so different when I was a kid growing up I used to walk through a cherry orchard in Sunnyvale there was Olson's cherry orchard.
+Olson's they still yeah they still have a.
+they had all.
+they had their little stand yeah.
+I think they still have a little bit of land probably and they have their cherry pies are to die for even now I.
+yeah.
+that whole.
+think.
+s- little strip mall was all cherry orchards.
+so alright what a good workout now we gotta go to the McDonald's.
+okay so let me give you directions let's.
+okay.
+pull out of this.
+straight.
+yeah we go straight and we make a left.
+okay.
+at the first intersection.
+alright yeah it's amazing to see how this has changed.
+ohh is.
+the brake ah I think the brake.
+ohh do I have the brake on ohh I do.
+yeah I think that's what it is okay.
+forgot I put it down.
+so we make a left at this intersection.
+what are they doing.
+I wonder what they're doing over there it looks like somebody's like the motorcycle where you learn to drive a motorc- ride a motorcycle.
+ohh is that what it is.
+I think so I think that's a course setup.
+so we head straight at this intersection and the McDonald's in on the left hand side.
+alright we'll pull in yeah they used to have their own McDonald's they used to have their own bowling alley.
+ohh bowling alley.
+this used to be one of the busier McDonald's.
+theatre.
+I'm sure ohh really I.
+ohh yeah.
+can imagine during the.
+because it was on the base.
+days.
+we hang a right here.
+alright park.
+no we don't we go through the drive through so we just.
+drive around it.
+drive around it yes.
+ohh yeah on the base I wonder what they're it's open so they must be doing something with it.
+I don't know I think they're using it as a storehouse of some kind must be we go straight.
+ohh okay.
+and then make a left make a left again and we'll get to the drive through window.
+we'll stop for a minute to act like we're getting something here yeah I wonder what they're doing alright so now what are we up to.
+okay.
+yeah let's see we've done the gym we're on four.
+we're on three.
+ohh three ohh we went to the post office we've done that.
+yeah.
+we finished in fact the last thing is.
+okay.
+go back to the hotel and enjoy a good night's sleep funny.
+okay so do you want directions back to the hotel.
+yes please I am unfamiliar with the city of Moffett Field which way do you want to go.
+okay.
+so we make a right at this intersection.
+alright.
+no we need to chat some more I am always very curious to know how the place was and it's great to meet we go straight ohh we go back we make a r- we make a right sorry.
+okay.
+it's different and it's changed how do you I mean there was none of these businesses here I mean there was no highway eighty five eighty five.
+if you went from here and you went up highway eighty five it ended just past.
+we make a left at this intersection.
+you went just past two eighty to.
+Stevens Creek and it ended it'd you'd see it right there you'd see how they have like the road just kind of stopped and when they put it in when they finally finished it it'd been there since the fifties but they'd never built it and then when they started you know paving it people would go out I never did it they'd bicycle and rollerblade you could go all the way to one oh one at the other side.
+there was no highway eighty seven.
+wow.
+I mean you had to go and the way it's the way I come to work now it's actually quicker for me to go Monterey Highway which is what when.
+it used to be called eh.
+I was.
+yeah w-.
+oh is it.
+not in eighty seven but.
+eighty.
+two turn right.
+yeah we make a right here.
+eighty two El Camino runs all up and down the state you know.
+yes.
+that don't you so.
+yes it goes all the way to Mexico right.
+yeah.
+it it used to be the road to that was the principle transportation corridor I think from the California all the way to Mexico as far as I know.
+yeah it's El Camino Real the king's highway.
+ohh I see that's what it's okay that's what it's supposed to be.
+yep.
+okay.
+how do you go into park.
+ohh we are very very very low charge actually on this laptop but be that as it may.
+I'm not sure where park is in this thing ohh do you have to hit the button ohh learn something new all the time.
+ohh.
+I see.
+okay.
+oh we're.
+day two you're.
+not we're not.
+ohh so we're not done cool I get.
+done.
+to drive some more.
+we're not done yet.
+your.
+colleague Phil arrived last night and you offered him a ride this morning on the way to your own meeting drop Phil off at his meeting at the army barracks before going to your s- meeting at Crown Start-Up Funds okay where's the army barracks here ohh.
+I can give you directions to the army barracks.
+okay.
+alright back up.
+so back up.
+alright this time I'm not going to hit the damn curb.
+ohh so you throw it in gear ohh so what you.
+and it automatically pops out of.
+ohh what is that sorry.
+no you but y- yeah as soon as you.
+start driving it.
+no you have to put it out of gear I don't want to hit the curb I'm a better driver than that.
+because in some cars the moment you start driving it'll automatically pop out the hand brake also.
+I can't drive I'm gonna make sure I don't ohh there we go I can see the curb now.
+ohh this is a hybrid okay.
+yeah that's why the.
+I see.
+the the if you step on the gas it's a little it's not it takes a second for it to kind of kick in.
+I see which one is it ohh it's a Toyota.
+yeah.
+oh is it a Prius.
+okay.
+ohh sorry.
+that's okay I you're you're my left you're my assistant.
+we make a left.
+we make.
+a.
+left the army barracks yes yes.
+ohh yeah it's changed it's really changed I mean it's great because there's jobs and stuff.
+yes.
+but I mean.
+I know I can imagine the idyllic.
+traffic is just.
+settings that.
+ohh yeah.
+you you must have had when you were growing up it was a sea change.
+ohh to yeah I mean it has changed where you would just go you would be shocked I mean I used to love to drive as a kid when I got my license I drove all the way up to San Matteo whatever you'd cruise around now there's traffic all the time.
+yeah.
+and it's just it's not as fun to drive.
+we make a right at this intersection.
+alright pick up our buddy Phil but yeah for me now it's quicker for me to go back roads that's how bad the the I mean I our highway systems.
+ohh but you know them very very well actually.
+I know.
+I know from here all the way to south San Jose straight.
+so we go straight.
+and up to about San Carlos 'cause I worked in in a Start-Up in San Carlos so.
+I see.
+I'm really good with directions if I see it one time.
+so.
+the.
+army barracks is just after the hydrant.
+okay.
+so you can pull into the driveway on the right.
+alright ohh this is one fifty two okay they have some receptions here at this thing.
+so we can st- drop Phil off b- why does it keep making that noise actually I'm just a bit.
+it says stop.
+ohh okay no problem I think it's it's still running okay.
+yep.
+alright.
+okay and so now we we're going ohh we're going to the Start-Up place.
+yes.
+to n-.
+do you have it with you.
+no you gave it to me.
+I think I gave it to you.
+I hope so ah four.
+right here so we need to go to.
+before going to.
+Crown Start-Up Funds.
+okay.
+how do we get to Crown Start-Up Funds from here.
+so.
+let me give you directions to Crown Start-Up Funds we make a left at that stop sign.
+okay and where to from there.
+ohh make a right at the stop sign.
+ohh make a right okay.
+so the fastest way of getting to Crown Start-Up Funds would be by taking an expressway so we are going to the expressway now.
+okay.
+so we make a left at this intersection.
+okay you know Shoreline Amphitheater right.
+that used to be the dump and the first few years they had concerts the first year they had concerts they had problems with the methane gas.
+ohh.
+people were lighting up cigarettes and little gas things would come popping up yeah.
+really ohh my goodness.
+it was that bad so they used.
+it was that bad.
+so they used to dump chemicals there also is it.
+more the trash dump that was the tr- city trash dump there used to I think the Sunnyvale one is still over here off Caribbean that all used to be nothing out there.
+I see.
+in Palo Alto they still have that I think or maybe they closed it down at this point there used to be this big dump where you could go chuck whatever you wanted close to Shoreline but not of course the it's in that what is that thing called the Baylands.
+yeah.
+in the Baylands yes.
+inclu- in the midst of it all yeah.
+right out by Palo Alto mini golf course.
+yes.
+okay so now.
+so make a left at that stop sign.
+okay so they used to get I don't know if it was a day they used to get I'd say half a million people here for the three days of the air show or more.
+wow.
+it just it would be I think it was half a million a day it was.
+huge.
+it was packed there would be people all out here you'd have to park they'd bus you in it'd be wall to wall people all up and down the tarmac.
+oops.
+here.
+ohh which way are we going.
+there is a traffic accident up ahead so we will take h- we will take a detour.
+left.
+make a left at this intersection.
+okay alright a traffic accident shocking okay so we're gonna bypass this.
+ohh.
+we're gonna bypass that.
+okay.
+just a minute.
+okay now which direction.
+we make a right at this.
+okay.
+intersection.
+okay and we're gonna go around it okay now which way.
+we go straight.
+okay.
+alright.
+and we go past the first stop sign then.
+okay.
+we're on there is a bit of a problem with this.
+ohh ohh.
+there is one slide that is missing I think anyways so we just go straight.
+we're lost.
+okay.
+ohh there is a slide that is missing unfortunately but.
+ohh.
+okay.
+straight.
+so we go straight.
+okay.
+we make a left at this junction.
+this one or the.
+at this one.
+okay.
+and we keep left.
+okay.
+and follow the road past the three buildings on the left hand side.
+okay ohh I don't want to run 'em over I'll go around 'em hello be happy straight.
+straight.
+okay.
+and we can park anywhere close to the building on the left hand side.
+okay alright so now we're here at.
+you have arrived at.
+the.
+the Start-Up.
+Crown Start-Up Funds.
+okay sorry little rough there ohh that's right.
+now what I need to do is to restart the camera that is on top of the car let me just do that.
+I can.
+okay.
+alrighty.
+there is one slide missing over here so I have to improvise a bit.
+alright.
+so let me just yeah I think we're in good shape we can go.
+okay.
+sorry Dan making you wait.
+nope.
+nope.
+going.
+nope not at all.
+to.
+be done in.
+I'm fine I don't have to get back Martin's out.
+another.
+five.
+ten minutes.
+ten or fifteen minutes we should be done.
+ohh I don't mind okay so.
+okay.
+which way do we want to go ohh I have to read the next sheet.
+yeah ohh so when you were arriving at Crown Start-Up Funds you got a text message from your friend Sam.
+okay.
+what did Sam have to say.
+so he says that he forgot his dossier in the back seat of the car and he needs it immediately his boss just walked in so we need to drop it off at the army barracks.
+okay ohh so we need to go back okay so how do we get to the army barracks from here.
+so let's leave the parking lot I'll give you directions to the army barracks.
+okay.
+would you like to send Sam a message.
+which way do we want to go do we want to go straight.
+we go straight would you like to send Sam a message saying.
+yes I would like.
+to send Sam a message tell him we're on the way.
+okay.
+let him know we'll be there shortly what would be cool left I'm gonna guess.
+we make a left here.
+okay.
+and then a right.
+okay what I think would be cool is if you could do voice activated messages from your car.
+yes.
+so you wouldn't be texting.
+ohh that's right in fact that is going to be part of the system.
+ohh see now that would be cool.
+where it will read out text messages that you get and you can speak out what you want to send and it will send that text message out.
+ohh.
+so it's going to be we make a left at this intersection.
+left.
+after the people come whipping down here.
+I think that would be that and voice activated dialing I think would be good.
+yes that is there though Dan.
+left.
+we make a keep left we keep left.
+straight.
+okay yeah keep left doot doo doo.
+okay.
+we follow the road beyond the stop sign straight.
+okay we're going to the army barracks.
+the army barracks.
+correct.
+okay and did he reply to the voicem- the the text message yet.
+he will be at the curbside.
+okay good good so did you come here after.
+you graduated or did you finish school over here in ninety five or how did it.
+no I came here after I finished my undergrad.
+ohh.
+soon after and they started.
+straight.
+yeah straight s- so we make a right at that stop sign.
+okay.
+so I came here after that and started working I was working initially at Silicon Graphics.
+ohh.
+for a couple of years I worked there then I was with a couple of other companies most recently Synopsis I worked in Synopsis for over nine years so we make a right I went to grad school in two thousand four is when I started my PHD.
+ohh.
+ohh and what'd you get your PHD in.
+in U C Santa.
+Cruz.
+yeah.
+so we make a we follow the road straight.
+okay.
+two thousand ten is when I got my PHD.
+ohh where did you do your undergrad.
+in India.
+ohh okay and you said and right at the stop sign or the.
+right.
+hydrant correct.
+just after the hydrant yes.
+I'm gonna chastise Phil for being dumb and making us come.
+all the way back thanks to his dossier okay.
+there is Phil.
+there is Phil how appropriate.
+looks I'm not gonna I'm gonna we're being recorded so I'm not gonna say anything.
+alright.
+let's make.
+which.
+left.
+at that stop sign.
+okay and now where are we heading.
+so now you have five minutes to make it to your meeting at Nanotech.
+okay and how do we get to Nanotech from here.
+let me give you directions we make a left at the stop sign.
+okay is that so how.
+you have an incoming text message.
+ohh okay.
+from your friend Phil.
+I just s- okay what did Phil do now.
+so Phil wants to know if you'd be free for dinner.
+sure.
+he's down and he was wondering if you'll be free for dinner we make a left at the stop sign.
+yeah tell Phil yes where would he like to go does he have a recommendation.
+oh we make a ohh sorry I should have said that.
+oh.
+oh straight.
+yeah straight anyway doesn't matter at all we can make a.
+where there's an accident down there.
+we can make a.
+yes we can make a right.
+at the stop sign.
+alright okay and then.
+and then we make a left at this intersection.
+somebody's barbecuing I want to know who.
+ohh yes I can smell it too.
+ohh yes smells good.
+mmm.
+unfortunately I was blessed with a good sense of smell I can smell everything.
+same thing.
+yes yes I'm.
+alright so now where are we heading.
+sure it was because you were raised in you know in in in orchard land.
+yeah exactly.
+not in this polluted.
+yeah.
+environment in which.
+exactly.
+ohh it's.
+my kids are being raised in.
+so we continue this following this road.
+okay and we're going to the s- we got five.
+we gonna make.
+minutes to get there.
+yes so we're gonna make a right.
+okay.
+okay.
+and the name of the company was.
+you have an incoming text message from Sam he was very pleased very happy that you dropped off the dossier he wants to know if he can buy you dinner.
+no we have plans already with Phil if he would like to join Phil and I for dinner he's more than welcome let him know that.
+we make a left at this intersection would you like me to send him a text message.
+yes please.
+okay.
+and if he'd like to join us okay.
+so we go straight.
+okay.
+after the stop sign sorry Dan you were saying something else before this interruption.
+that's okay here.
+no the next junction we make a left into the parking lot.
+okay.
+and Nanotech is the first building on the right hand side which has a tower on top of it.
+okay thank you Sam gonna join us for dinner or has he responded yet.
+not yet.
+not yet okay well we don't want to go through the sprinkler here okay alright.
+okay.
+alright your meeting at Nano was uneventful ohh blah blah okay so we're going back to the hotel how how do we get there from here from Nanotech.
+okay we m- leave the parking lot I'll give you directions to the hotel.
+back this way or that.
+we can go left.
+way.
+okay oops I want reverse okay.
+you have a text message from Sam.
+okay.
+he would prefer to meet with you separately because he has an important business venture to discuss so would it be possible still to make it for dinner.
+yeah tell Phil that we have to change and if he wants to go out for drinks afterwards then that's fine if not we'll reschedule for tomorrow night tell him something came up business wise that I have to take care of.
+make a right.
+okay would you like to send a text message to Sam saying that.
+yeah tell him dinner if he has somewhere he wants to recommend do that if not then we will eat here at the hotel in the restaurant here.
+make a left.
+okay.
+alright and now left.
+we make.
+a left at this intersection.
+because we were here just.
+yeah.
+okay guess I shouldn't say that.
+huh so you we should be able to give you information of that kind like whatever is only if it's necessary if it sensed that you're trying to make a left when you're actually supposed to make a right only then should we actually be you know giving you guidance.
+see that's where I think would be be good yeah 'cause I mean when you do a GPS now and you make a turn all s-.
+collective.
+you recalculate stuff right exactly so it is important to anticipate what the person is going to do and then based on that take.
+recalculating yeah.
+yeah.
+remedial measures.
+and so all of that is but but it is very interesting because just this morning on radio they were talking about so you make a left at this junction and the parking lot is on the right hand side.
+okay.
+they were talking about a government study sponsored by the NTSB.
+where they incentivized drivers they put a GPS unit on top of the car and they g- started off all drivers with twenty five dollars and if they exceed the speed limit at any place then they lose five cents or something like that.
+really.
+in fact we're done yeah so at the end of the week for a week long thing program at the end of the week they give you twenty five bucks if you've not exceeded speed limit at all.
+wow that's tough.
+it was they found it very it was very interesting because I believe because t- twelve I believe twelve thousand people die every year because of overspeeding and not respecting speed limits and not being aware of them so they were saying that this study was very successful because people it's almost like an incentive people are very soc- you know from from a sociology point of view people's psychology people don't want to lose small amounts of money when they know that they're going to lose small amounts of money it's like a game they want to see how they can maximize and manage to get.
+ohh I got it.
+all the twenty five dollars.
+so it's a it was.
+interesting.
+yeah so an incentive model.
+yeah I would think that people would think that.
+yeah.
+that time would be more of an essence than than a few quar- than twenty five cents here or there.
+yeah no but I think it also depends upon the control group that they actually pick no I'm not so sure how well distributed it was.
+ohh true.
+for a few people I'm sure in the Valley it might work a little differently.
+right.
+I expect.
+no.
+because.
+i'm.

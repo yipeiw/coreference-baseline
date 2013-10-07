@@ -1,0 +1,327 @@
+<1,driver> so/word_0/1 do/word_1/2 I/word_2/3 call/word_3/4 Sam/word_4/5 or/word_5/6 in-car/word_6/7 assistant/word_7/8 or/word_8/9
+<2,copilot> ohh/word_9/1 in-car/word_10/2 assistant/word_11/3
+<3,driver> okay/word_12/1
+<4,copilot> I/word_13/1 mean/word_14/2 you/word_15/3 can/word_16/4 say/word_17/5 you/word_18/6 can/word_19/7 ask/word_20/8 me/word_21/9 for/word_22/10 suggestions/word_24/11
+<5,driver> okay/word_25/1
+<6,copilot> because/word_27/1 you/word_29/2 have/word_30/3 some/word_31/4 time/word_32/5 to/word_33/6 kill/word_34/7
+<7,driver> okay/word_35/1
+<8,copilot> this/word_36/1 is/word_37/2 your/word_38/3 first/word_39/4 day/word_40/5 you/word_41/6 just/word_42/7 checked/word_43/8 in/word_44/9
+<9,driver> alright/word_45/1
+<10,copilot> and/word_46/1 so/word_47/2 we/word_48/3 can/word_49/4 decide/word_50/5 you/word_52/6 I/word_53/7 can/word_54/8 give/word_55/9 you/word_56/10 some/word_57/11 suggestions/word_58/12 on/word_59/13 where/word_60/14 you/word_61/15 can/word_62/16 go/word_63/17
+<11,driver> okay/word_64/1 in-car/word_65/2 assistant/word_66/3 could/word_67/4 you/word_68/5 suggest/word_69/6 some/word_70/7 places/word_71/8 to/word_72/9 visit/word_73/10
+<12,copilot> okay/word_75/1 so/word_76/2 you/word_77/3 have/word_78/4 a/word_79/5 few/word_80/6 choices/word_81/7 you/word_82/8 have/word_83/9 conference/word_85/10 center/word_86/11 a/word_88/12 bowling/word_89/13 alley/word_90/14 the/word_92/15 co-/word_93/16 the/word_94/17 commissary/word_95/18 or/word_96/19 the/word_97/20 museum/word_98/21
+<13,driver> how/word_101/1 about/word_102/2 the/word_103/3 museum/word_104/4
+<14,copilot> okay/word_106/1 so/word_107/2 let's/word_108/3 pull/word_109/4 out/word_110/5 of/word_111/6 the/word_112/7 parking/word_113/8 lot/word_114/9 and/word_115/10 I'll/word_116/11 give/word_117/12 you/word_118/13 directions/word_119/14 to/word_120/15 the/word_121/16 museum/word_122/17
+<15,driver> okay/word_123/1
+<16,copilot> so/word_125/1 we/word_126/2 make/word_127/3 a/word_128/4 left/word_129/5 and/word_130/6 we/word_131/7 follow/word_132/8 the/word_133/9 road/word_134/10 all/word_135/11 the/word_136/12 way/word_137/13 to/word_138/14 the/word_139/15 stop/word_140/16 sign/word_141/17
+<17,driver> okay/word_142/1
+<18,copilot> and/word_143/1 we/word_144/2 make/word_145/3 a/word_146/4 left/word_147/5 at/word_148/6 this/word_149/7 intersection/word_150/8
+<19,driver> okay/word_151/1 there's/word_152/2 no/word_153/3 stop/word_154/4 sign/word_155/5 here/word_156/6 is/word_157/7 that/word_159/8
+<20,copilot> there/word_158/1 is/word_160/2 no/word_161/3
+<21,driver> okay/word_162/1
+<22,copilot> s-/word_163/1 ohh/word_164/2 there's/word_165/3 no/word_166/4 stop/word_167/5 sign/word_168/6
+<23,driver> okay/word_169/1 but/word_170/2 we're/word_171/3 making/word_172/4 a/word_173/5 left/word_174/6 here/word_175/7
+<24,copilot> yes/word_176/1 so/word_177/2 we/word_178/3 make/word_179/4 a/word_180/5 left/word_181/6 the/word_182/7 speed/word_183/8 limit/word_184/9 is/word_185/10 twenty/word_186/11 five/word_187/12 miles/word_188/13 an/word_189/14 hour/word_190/15
+<25,driver> thank/word_192/1 you/word_193/2
+<26,copilot> so/word_194/1 we/word_195/2 follow/word_196/3 the/word_197/4 road/word_198/5 all/word_199/6 the/word_200/7 way/word_201/8 to/word_202/9 the/word_203/10 end/word_204/11 and/word_205/12 the/word_206/13 museum/word_207/14 will/word_208/15 be/word_209/16 on/word_210/17 your/word_211/18 left/word_212/19 hand/word_213/20 side/word_214/21
+<27,driver> okay/word_216/1 do/word_217/2 I/word_218/3 continue/word_219/4 around/word_220/5 the/word_221/6 curve/word_222/7 or/word_223/8
+<28,copilot> you/word_224/1 can/word_225/2 continue/word_226/3 around/word_227/4 the/word_228/5 curve/word_229/6 in/word_230/7 fact/word_231/8 the/word_232/9 museum/word_233/10 is/word_234/11
+<29,driver> ohh/word_235/1 right/word_236/2 there/word_237/3 on/word_238/4 the/word_239/5 left/word_240/6
+<30,copilot> right/word_241/1 here/word_242/2 on/word_243/3 the/word_244/4 left/word_245/5 hand/word_246/6
+<31,driver> okay/word_247/1
+<32,copilot> side/word_248/1
+<33,driver> thank/word_249/1 okay/word_250/2 so/word_251/3 I'll/word_252/4 continue/word_253/5 around/word_254/6 the/word_255/7 curve/word_256/8
+<34,copilot> yeah/word_257/1 you/word_258/2 make/word_259/3 a/word_260/4 right/word_261/5 to/word_262/6 get/word_263/7 back/word_264/8 into/word_265/9 the/word_266/10
+<35,driver> okay/word_267/1
+<36,copilot> because/word_268/1 we/word_269/2 have/word_270/3 to/word_271/4 park/word_272/5 at/word_273/6 the/word_274/7 museum/word_275/8
+<37,driver> okay/word_276/1 turn/word_277/2 make/word_278/3 a/word_280/4 U-turn/word_281/5 all/word_283/6 the/word_284/7 way/word_286/8 around/word_287/9
+<38,copilot> turn/word_279/1 around/word_282/2
+<39,copilot> yes/word_285/1
+<40,copilot> so/word_288/1 turn/word_289/2 around/word_290/3 and/word_291/4 we/word_292/5 go/word_293/6 back/word_294/7 to/word_295/8 the/word_296/9 museum/word_297/10
+<41,driver> okay/word_298/1 should/word_299/2 I/word_300/3 go/word_301/4 across/word_302/5 the/word_303/6 street/word_304/7 to/word_305/8 the/word_306/9 parking/word_307/10 lot/word_308/11
+<42,copilot> yes/word_310/1
+<43,driver> and/word_311/1 left/word_312/2 into/word_313/3 the/word_315/4 parking/word_316/5 lot/word_318/6
+<44,copilot> yes/word_314/1
+<45,copilot> left/word_317/1
+<46,copilot> into/word_319/1 the/word_320/2 parking/word_321/3 lot/word_322/4 you/word_323/5 can/word_324/6 you/word_325/7 can/word_326/8 park/word_327/9 where/word_328/10 it's/word_329/11 convenient/word_330/12
+<47,driver> okay/word_331/1 okay/word_333/2
+<48,copilot> okay/word_335/1 so/word_336/2 just/word_337/3 put/word_338/4 it/word_339/5 in/word_340/6 park/word_341/7
+<49,driver> okay/word_343/1
+<50,copilot> and/word_344/1 now/word_345/2 we/word_346/3 are/word_347/4 done/word_348/5 with/word_349/6 museum/word_350/7 okay/word_351/8
+<51,driver> okay/word_352/1 that/word_353/2 was/word_354/3 a/word_355/4 great/word_356/5 museum/word_357/6
+<52,copilot> yeah/word_358/1 did/word_361/2 you/word_362/3 enjoy/word_363/4 your/word_364/5 trip/word_366/6 to/word_367/7 the/word_368/8 museum/word_369/9 okay/word_371/10 so/word_372/11 this/word_373/12 is/word_374/13 your/word_375/14 next/word_376/15 task/word_377/16
+<53,driver> okay/word_378/1 okay/word_380/2 go/word_381/3 to/word_382/4 the/word_383/5 post/word_384/6 office/word_385/7 next/word_386/8 go/word_387/9 to/word_388/10 the/word_389/11 gym/word_390/12 after/word_391/13 the/word_392/14 gym/word_393/15 McDonald's/word_394/16 go/word_395/17 back/word_396/18 to/word_397/19 the/word_398/20 okay/word_399/21 alright/word_401/22 I'd/word_402/23 like/word_403/24 to/word_404/25 go/word_405/26 to/word_406/27 the/word_407/28 post/word_408/29 office/word_409/30
+<54,copilot> do/word_410/1 you/word_411/2 need/word_412/3 directions/word_413/4 to/word_414/5 the/word_415/6 post/word_416/7 office/word_417/8
+<55,driver> I/word_418/1 would/word_419/2 like/word_420/3 directions/word_421/4 yes/word_422/5 please/word_423/6
+<56,copilot> okay/word_424/1 so/word_426/2 let's/word_427/3 leave/word_429/4 the/word_430/5 parking/word_431/6 lot/word_432/7 and/word_433/8 then/word_434/9 I'll/word_435/10 give/word_436/11 you/word_437/12 directions/word_438/13
+<57,driver> okay/word_439/1
+<58,copilot> that/word_441/1 is/word_442/2 a/word_443/3 one/word_444/4 way/word_445/5 I/word_446/6 think/word_447/7
+<59,driver> interesting/word_449/1
+<60,copilot> so/word_450/1 we/word_451/2 make/word_452/3 a/word_453/4 left/word_454/5
+<61,driver> okay/word_455/1
+<62,copilot> then/word_457/1 we/word_458/2 leave/word_459/3 the/word_460/4 parking/word_461/5 lot/word_462/6 and/word_463/7 then/word_464/8 we/word_465/9 continue/word_466/10 to/word_467/11 make/word_468/12 a/word_469/13
+<63,driver> do/word_470/1 I/word_471/2 need/word_472/3 to/word_473/4 go/word_474/5 left/word_475/6 or/word_476/7 right/word_477/8
+<64,copilot> we/word_479/1 make/word_480/2 a/word_481/3 right/word_482/4
+<65,driver> okay/word_484/1
+<66,copilot> okay/word_486/1 so/word_488/2 we/word_489/3 follow/word_490/4 the/word_491/5 road/word_492/6 to/word_493/7 the/word_494/8 first/word_495/9 stop/word_496/10 sign/word_497/11 at/word_498/12 which/word_499/13 point/word_500/14 we/word_501/15 make/word_502/16 another/word_503/17 right/word_504/18
+<67,driver> okay/word_505/1 this/word_506/2 is/word_507/3 McCord/word_508/4 Avenue/word_509/5 and/word_510/6 this/word_511/7 is/word_512/8 where/word_513/9 I/word_514/10 make/word_515/11 a/word_516/12 right/word_517/13
+<68,copilot> yes/word_518/1
+<69,driver> okay/word_519/1
+<70,copilot> we/word_520/1 go/word_521/2 straight/word_522/3 past/word_523/4 the/word_524/5 first/word_525/6 stop/word_526/7 sign/word_527/8
+<71,driver> okay/word_528/1
+<72,copilot> we/word_529/1 continue/word_530/2 beyond/word_531/3 the/word_532/4 second/word_533/5 stop/word_534/6 sign/word_535/7 the/word_536/8 post/word_537/9 office/word_538/10 is/word_539/11 on/word_540/12 your/word_541/13 left/word_542/14 after/word_543/15 the/word_544/16 stop/word_545/17 sign/word_546/18
+<73,driver> okay/word_547/1
+<74,copilot> and/word_548/1 we/word_549/2 pull/word_550/3 into/word_551/4 the/word_552/5 parking/word_553/6 lot/word_554/7 on/word_555/8 the/word_556/9 left/word_557/10 hand/word_558/11 side/word_559/12
+<75,driver> okay/word_560/1 I/word_561/2 see/word_562/3 that/word_563/4 ohh/word_564/5 here/word_565/6 we/word_566/7 are/word_567/8
+<76,copilot> and/word_568/1 we/word_569/2 park/word_570/3 on/word_571/4 the/word_572/5 left/word_573/6
+<77,driver> okay/word_574/1 okay/word_576/2
+<78,copilot> you/word_577/1 have/word_578/2 arrived/word_579/3 at/word_580/4 the/word_581/5 post/word_582/6 office/word_583/7
+<79,driver> okay/word_585/1
+<80,copilot> okay/word_586/1 okay/word_587/2 so/word_588/3 where/word_589/4 would/word_590/5 you/word_591/6 like/word_592/7 to/word_593/8 go/word_594/9 next/word_595/10
+<81,driver> ohh/word_597/1 I/word_598/2 think/word_599/3 I/word_601/4 think/word_602/5 it/word_603/6 you/word_604/7 were/word_605/8 talking/word_606/9 about/word_607/10 going/word_608/11 to/word_609/12 the/word_610/13 gym/word_611/14
+<82,copilot> okay/word_612/1
+<83,driver> okay/word_613/1
+<84,copilot> so/word_614/1 let/word_615/2 me/word_616/3 give/word_617/4 you/word_618/5 directions/word_619/6 to/word_620/7 the/word_621/8 gym/word_622/9 so/word_623/10 let's/word_624/11 pull/word_625/12 out/word_626/13 of/word_627/14 the/word_628/15 parking/word_629/16 lot/word_630/17
+<85,driver> great/word_632/1
+<86,copilot> so/word_633/1 you/word_634/2 have/word_635/3 a/word_636/4 notification/word_637/5 you/word_638/6 have/word_639/7 low/word_640/8 gas/word_641/9
+<87,driver> ohh/word_643/1 okay/word_644/2
+<88,copilot> so/word_645/1 would/word_646/2 you/word_647/3 like/word_648/4 to/word_649/5 go/word_650/6 to/word_651/7 the/word_652/8 gas/word_653/9 station/word_654/10
+<89,driver> I/word_655/1 would/word_656/2 like/word_658/3 to/word_659/4 go/word_660/5 to/word_661/6 the/word_662/7 gas/word_663/8 station/word_664/9 where/word_665/10 is/word_666/11 the/word_667/12 nearest/word_668/13 gas/word_669/14 station/word_670/15
+<90,copilot> first/word_657/1
+<91,copilot> okay/word_671/1 I'm/word_672/2 setting/word_673/3 the/word_674/4 directions/word_675/5 to/word_676/6 get/word_677/7 us/word_678/8 to/word_679/9 the/word_680/10 nearest/word_681/11 gas/word_682/12 station/word_683/13
+<92,driver> okay/word_684/1
+<93,copilot> so/word_685/1 we/word_686/2 leave/word_687/3 the/word_688/4 parking/word_689/5 lot/word_690/6 we/word_691/7 go/word_692/8 straight/word_693/9 and/word_694/10 make/word_695/11 a/word_696/12 right/word_697/13 so/word_698/14 we/word_699/15 make/word_700/16 a/word_701/17 right/word_702/18 on/word_703/19 McCord/word_704/20
+<94,driver> okay/word_705/1 do/word_706/2 I/word_707/3 continue/word_708/4 straight/word_709/5 at/word_710/6 the/word_711/7 stop/word_712/8 sign/word_713/9
+<95,copilot> yes/word_714/1
+<96,driver> and/word_715/1 continue/word_716/2 straight/word_717/3
+<97,copilot> continue/word_718/1 straight/word_719/2 at/word_720/3 the/word_721/4 next/word_722/5 stop/word_723/6 sign/word_724/7 we/word_725/8 make/word_726/9 a/word_727/10 left/word_728/11
+<98,driver> okay/word_729/1
+<99,copilot> the/word_730/1 gas/word_731/2 station/word_732/3 is/word_733/4 opposite/word_734/5 of/word_735/6 the/word_736/7 museum/word_737/8 that/word_738/9 we/word_739/10 went/word_740/11 to/word_741/12 earlier/word_742/13
+<100,driver> ah/word_743/1 yeah/word_744/2 okay/word_745/3 I/word_747/4 see/word_748/5 it/word_749/6
+<101,copilot> so/word_750/1 you/word_751/2 can/word_752/3 pull/word_753/4 into/word_754/5 the/word_755/6 gas/word_756/7 station/word_757/8 just/word_758/9 before/word_759/10 that/word_760/11 car/word_761/12 parked/word_762/13 on/word_763/14 the/word_764/15 right/word_765/16 hand/word_766/17 side/word_767/18
+<102,driver> okay/word_768/1 okay/word_769/2 alright/word_770/3 great/word_771/4
+<103,copilot> okay/word_772/1
+<104,driver> now/word_773/1 we/word_774/2 have/word_775/3 gas/word_776/4
+<105,copilot> we/word_777/1 have/word_778/2 gas/word_779/3 now/word_781/4 we/word_782/5 go/word_783/6 to/word_784/7 the/word_785/8 gym/word_786/9
+<106,driver> okay/word_787/1 now/word_788/2 we/word_789/3 can/word_790/4 continue/word_791/5 on/word_792/6 okay/word_793/7
+<107,copilot> so/word_795/1 let's/word_796/2 leave/word_797/3 the/word_798/4
+<108,driver> which/word_799/1 side/word_801/2 of/word_803/3 the/word_805/4 gas/word_806/5 station/word_808/6 parking/word_809/7 lot/word_810/8 should/word_811/9 I/word_813/10
+<109,copilot> gas/word_800/1 station/word_802/2
+<110,copilot> parking/word_804/1 lot/word_807/2
+<111,copilot> we/word_812/1 gonna/word_814/2 make/word_815/3 a/word_816/4 left/word_817/5 we/word_818/6 gonna/word_819/7 make/word_820/8 a/word_821/9 U-turn/word_822/10 get/word_824/11 back/word_825/12 to/word_827/13 the/word_829/14 road/word_830/15 that/word_831/16 we/word_832/17 came/word_833/18 on/word_834/19
+<112,driver> make/word_823/1 a/word_826/2 U-turn/word_828/3
+<113,driver> okay/word_835/1
+<114,copilot> we/word_836/1 make/word_837/2 a/word_838/3 left/word_840/4 so/word_841/5 we/word_842/6 go/word_843/7 straight/word_844/8 past/word_845/9 the/word_846/10 first/word_847/11 stop/word_848/12 sign/word_849/13
+<115,driver> okay/word_850/1
+<116,copilot> and/word_851/1 the/word_852/2 gym/word_853/3 will/word_854/4 be/word_855/5 on/word_856/6 your/word_857/7 left/word_858/8 hand/word_859/9 side/word_860/10
+<117,driver> where/word_862/1 it/word_863/2 says/word_864/3 swimming/word_865/4 pool/word_866/5
+<118,copilot> yes/word_868/1 the/word_869/2 gym/word_870/3 is/word_871/4 in/word_872/5 fact/word_873/6 in/word_874/7 the/word_875/8 same/word_876/9 complex/word_877/10 as/word_878/11 the/word_879/12 swimming/word_880/13 pool/word_881/14
+<119,driver> ah/word_882/1 okay/word_883/2 so/word_884/3 do/word_885/4 I/word_886/5 turn/word_887/6 left/word_888/7
+<120,copilot> we/word_889/1 make/word_890/2 a/word_891/3 left/word_892/4
+<121,driver> at/word_893/1 this/word_894/2 corner/word_895/3 okay/word_896/4
+<122,copilot> and/word_897/1 we/word_898/2 can/word_899/3 park/word_900/4 on/word_901/5 the/word_902/6 right/word_903/7 hand/word_904/8 side/word_905/9
+<123,driver> okay/word_906/1
+<124,copilot> okay/word_908/1
+<125,driver> okay/word_909/1
+<126,copilot> so/word_911/1 you're/word_912/2 done/word_913/3 with/word_915/4 the/word_916/5 gym/word_917/6
+<127,driver> great/word_914/1
+<128,driver> alright/word_918/1
+<129,copilot> where/word_919/1 would/word_920/2 you/word_921/3 like/word_922/4 to/word_923/5 go/word_924/6 next/word_925/7
+<130,driver> where/word_926/1 is/word_927/2 next/word_928/3 on/word_929/4 our/word_930/5 list/word_931/6 I/word_933/7 think/word_934/8 I'd/word_935/9 like/word_936/10 to/word_937/11 stop/word_938/12 by/word_939/13 McDonald's/word_940/14 before/word_941/15 I/word_942/16 go/word_943/17 back/word_944/18 to/word_945/19 the/word_946/20 hotel/word_947/21
+<131,copilot> okay/word_948/1 so/word_949/2 let's/word_950/3 leave/word_951/4 the/word_952/5 parking/word_953/6 lot/word_954/7 and/word_955/8 I'll/word_956/9 give/word_957/10 you/word_958/11 directions/word_959/12 to/word_960/13 McDonald's/word_961/14
+<132,driver> okay/word_963/1
+<133,copilot> we're/word_964/1 going/word_965/2 to/word_966/3 make/word_967/4 a/word_968/5 left/word_969/6 at/word_970/7 the/word_971/8 stop/word_972/9 sign/word_973/10 we/word_974/11 go/word_975/12 straight/word_976/13 after/word_977/14 this/word_978/15 stop/word_979/16 sign/word_980/17 and/word_981/18 McDonald's/word_982/19 will/word_983/20 be/word_984/21 on/word_985/22 the/word_986/23 left/word_987/24 hand/word_988/25 side/word_989/26
+<134,driver> okay/word_990/1 I/word_991/2 see/word_992/3 McDonald's/word_993/4
+<135,copilot> so/word_994/1 we/word_995/2 pull/word_996/3 in/word_997/4 here/word_998/5 make/word_999/6 a/word_1000/7 left/word_1001/8 and/word_1002/9 we/word_1003/10 make/word_1004/11 a/word_1005/12 right/word_1006/13 to/word_1007/14 go/word_1008/15 around/word_1009/16
+<136,driver> okay/word_1010/1
+<137,copilot> the/word_1011/1 building/word_1012/2 to/word_1013/3 get/word_1014/4 to/word_1015/5 the/word_1016/6 drive-through/word_1017/7
+<138,driver> okay/word_1018/1
+<139,copilot> we/word_1020/1 go/word_1021/2 past/word_1022/3 this/word_1023/4 parking/word_1025/5 area/word_1026/6
+<140,driver> okay/word_1027/1
+<141,copilot> and/word_1028/1 make/word_1029/2 a/word_1030/3 left/word_1031/4 and/word_1033/5 make/word_1034/6 a/word_1035/7 left/word_1036/8 again/word_1037/9 to/word_1038/10 get/word_1039/11 to/word_1040/12 the/word_1041/13 drive-through/word_1042/14 window/word_1044/15
+<142,driver> okay/word_1045/1 here/word_1047/2 we/word_1048/3 are/word_1049/4
+<143,copilot> okay/word_1050/1
+<144,driver> great/word_1052/1
+<145,copilot> so/word_1053/1 you/word_1054/2 got/word_1055/3 your/word_1056/4 food/word_1057/5 at/word_1058/6
+<146,driver> I've/word_1060/1 got/word_1061/2 my/word_1062/3 food/word_1063/4
+<147,copilot> McDonald's/word_1065/1
+<148,copilot> and/word_1067/1 now/word_1068/2
+<149,driver> let's/word_1070/1 see/word_1071/2 so/word_1073/3 now/word_1074/4 I'd/word_1075/5 like/word_1076/6 to/word_1077/7 go/word_1078/8 back/word_1079/9 to/word_1080/10 the/word_1081/11 hotel/word_1082/12
+<150,copilot> alright/word_1084/1 so/word_1085/2 let's/word_1086/3 pull/word_1087/4 out/word_1088/5 of/word_1089/6 the/word_1090/7 drive-through/word_1091/8 and/word_1092/9 I'll/word_1093/10 give/word_1094/11 you/word_1095/12 directions/word_1096/13 to/word_1097/14 the/word_1098/15 hotel/word_1099/16
+<151,driver> okay/word_1100/1
+<152,copilot> so/word_1101/1 we/word_1102/2 make/word_1103/3 a/word_1104/4 right/word_1105/5 when/word_1106/6 we/word_1107/7 leave/word_1108/8 the/word_1109/9 parking/word_1110/10 lot/word_1111/11 make/word_1112/12 a/word_1113/13 slight/word_1114/14 left/word_1115/15 at/word_1116/16 the/word_1117/17 stop/word_1118/18 sign/word_1119/19 and/word_1120/20 continue/word_1121/21 following/word_1122/22 the/word_1123/23 road/word_1124/24 we/word_1125/25 make/word_1126/26 a/word_1127/27 right/word_1128/28 at/word_1129/29 the/word_1130/30 stop/word_1131/31 sign/word_1132/32 and/word_1133/33 the/word_1134/34 gym/word_1135/35 we/word_1136/36 went/word_1137/37 to/word_1138/38 earlier/word_1139/39 is/word_1140/40 on/word_1141/41 the/word_1142/42 right/word_1143/43 hand/word_1144/44 side/word_1145/45
+<153,driver> ohh/word_1146/1 yes/word_1147/2
+<154,copilot> we/word_1149/1 make/word_1150/2 a/word_1151/3 left/word_1152/4 at/word_1153/5 this/word_1154/6 stop/word_1155/7 sign/word_1156/8
+<155,driver> am/word_1157/1 I/word_1158/2 gonna/word_1159/3 stay/word_1160/4 on/word_1161/5 this/word_1162/6 road/word_1163/7 very/word_1164/8 long/word_1165/9
+<156,copilot> you/word_1166/1 will/word_1167/2 not/word_1168/3 for/word_1169/4 long/word_1170/5 because/word_1171/6 you're/word_1172/7 gonna/word_1173/8 be/word_1174/9 making/word_1175/10 a/word_1176/11 right/word_1177/12 to/word_1178/13 get/word_1179/14 into/word_1180/15 the/word_1181/16 hotel/word_1182/17 parking/word_1183/18 lot/word_1184/19
+<157,driver> okay/word_1185/1
+<158,copilot> which/word_1186/1 is/word_1187/2 coming/word_1188/3 up/word_1189/4 now/word_1190/5
+<159,driver> okay/word_1191/1
+<160,copilot> so/word_1192/1 you/word_1193/2 make/word_1194/3 a/word_1195/4 right/word_1196/5 at/word_1197/6 this/word_1198/7 intersection/word_1199/8 and/word_1200/9 you/word_1201/10 make/word_1202/11 another/word_1203/12 right/word_1204/13 immediately/word_1205/14 after/word_1206/15
+<161,driver> right/word_1208/1 here/word_1209/2
+<162,copilot> right/word_1210/1 here/word_1211/2
+<163,driver> okay/word_1212/1
+<164,copilot> you/word_1215/1 follow/word_1216/2 the/word_1217/3 road/word_1218/4 to/word_1219/5 the/word_1220/6 parking/word_1221/7 lot/word_1222/8 and/word_1223/9 we/word_1224/10 park/word_1225/11 where/word_1226/12 it's/word_1227/13 convenient/word_1228/14
+<165,driver> okay/word_1229/1
+<166,copilot> and/word_1230/1 you/word_1231/2 can/word_1232/3 stop/word_1233/4 there/word_1234/5 actually/word_1235/6
+<167,driver> okay/word_1236/1 stop/word_1237/2 right/word_1238/3 here/word_1239/4 okay/word_1240/5
+<168,copilot> yeah/word_1241/1 okay/word_1242/2
+<169,driver> great/word_1244/1
+<170,copilot> so/word_1245/1 we/word_1246/2 are/word_1247/3 done/word_1248/4 with/word_1249/5 coming/word_1251/6 back/word_1252/7 to/word_1253/8 the/word_1254/9 hotel/word_1255/10
+<171,driver> back/word_1256/1 at/word_1257/2 the/word_1258/3 hotel/word_1259/4
+<172,copilot> it's/word_1260/1 done/word_1261/2
+<173,driver> okay/word_1264/1 great/word_1265/2 so/word_1267/3 I/word_1268/4 need/word_1269/5 to/word_1270/6 pick/word_1271/7 up/word_1272/8 Phil/word_1273/9
+<174,copilot> drop/word_1274/1 Phil/word_1275/2
+<175,driver> drop/word_1276/1 Phil/word_1277/2 so/word_1278/3 Phil's/word_1279/4 with/word_1280/5 me/word_1281/6
+<176,copilot> yes/word_1282/1 in/word_1283/2 the/word_1285/3 car/word_1286/4
+<177,driver> okay/word_1284/1
+<178,driver> in/word_1287/1 the/word_1288/2 car/word_1289/3 okay/word_1291/4 so/word_1293/5 I/word_1294/6 need/word_1295/7 to/word_1296/8 take/word_1297/9 Phil/word_1298/10 over/word_1299/11 to/word_1300/12 his/word_1302/13 own/word_1303/14 meeting/word_1304/15 at/word_1305/16 the/word_1306/17 army/word_1307/18 barracks/word_1308/19 can/word_1309/20 you/word_1310/21 tell/word_1311/22 me/word_1312/23 how/word_1313/24 to/word_1314/25 get/word_1315/26 to/word_1316/27 the/word_1317/28 army/word_1318/29 barracks/word_1319/30
+<179,copilot> yes/word_1320/1 I/word_1321/2 can/word_1322/3
+<180,driver> okay/word_1323/1 great/word_1324/2
+<181,copilot> let's/word_1325/1 leave/word_1327/2 the/word_1328/3 parking/word_1329/4 lot/word_1330/5
+<182,driver> okay/word_1331/1
+<183,copilot> at/word_1332/1 the/word_1333/2 f-/word_1334/3 at/word_1335/4 the/word_1336/5 intersection/word_1337/6 we/word_1338/7 make/word_1339/8 a/word_1340/9 left/word_1341/10 at/word_1343/11 the/word_1344/12 next/word_1345/13 intersection/word_1346/14 we/word_1347/15 make/word_1348/16 a/word_1349/17 right/word_1350/18
+<184,driver> okay/word_1351/1
+<185,copilot> we/word_1352/1 make/word_1353/2 a/word_1354/3 left/word_1355/4 at/word_1356/5 this/word_1357/6 intersection/word_1358/7
+<186,driver> so/word_1360/1 we're/word_1361/2 back/word_1362/3 by/word_1363/4 the/word_1364/5 gym/word_1365/6
+<187,copilot> yes/word_1366/1 we're/word_1367/2 back/word_1368/3 by/word_1369/4 the/word_1370/5 gym/word_1371/6 we/word_1372/7 make/word_1373/8 a/word_1374/9 right/word_1375/10 at/word_1376/11 the/word_1377/12 next/word_1378/13 stop/word_1379/14 sign/word_1380/15 the/word_1381/16 army/word_1382/17 barracks/word_1383/18 is/word_1384/19 coming/word_1385/20 on/word_1386/21 the/word_1387/22 right/word_1388/23 hand/word_1389/24 side/word_1390/25
+<188,driver> okay/word_1391/1 should/word_1392/2 I/word_1393/3 pull/word_1394/4 into/word_1395/5 the/word_1396/6 parking/word_1397/7 lot/word_1398/8 here/word_1399/9
+<189,copilot> we/word_1401/1 can/word_1402/2 go/word_1403/3 through/word_1404/4 the/word_1405/5 driveway/word_1406/6
+<190,driver> driveway/word_1407/1
+<191,copilot> and/word_1408/1 drop/word_1409/2 off/word_1410/3 Phil/word_1411/4
+<192,driver> right/word_1414/1 here/word_1415/2
+<193,copilot> curbside/word_1416/1
+<194,driver> okay/word_1417/1
+<195,copilot> you/word_1418/1 arrived/word_1419/2 at/word_1420/3 the/word_1421/4 army/word_1422/5 barracks/word_1423/6
+<196,driver> okay/word_1424/1 let/word_1425/2 me/word_1426/3 drop/word_1427/4 off/word_1428/5 Phil/word_1429/6 okay/word_1431/7 great/word_1432/8
+<197,copilot> okay/word_1433/1
+<198,driver> now/word_1434/1 I/word_1435/2 think/word_1436/3 I'd/word_1437/4 like/word_1438/5 to/word_1439/6 continue/word_1442/7 onto/word_1443/8 my/word_1444/9 meeting/word_1445/10 at/word_1446/11 Crown/word_1447/12 Start-Up/word_1448/13 Funds/word_1449/14 can/word_1450/15 you/word_1451/16 show/word_1452/17 me/word_1453/18 how/word_1454/19 to/word_1455/20 get/word_1456/21 there/word_1457/22
+<199,copilot> yes/word_1458/1 I/word_1459/2 can/word_1460/3 so/word_1461/4 let's/word_1462/5 go/word_1466/6 straight/word_1467/7 and/word_1468/8 make/word_1469/9 a/word_1470/10 left/word_1471/11 when/word_1473/12 we/word_1474/13 get/word_1475/14 to/word_1476/15 the/word_1477/16 road/word_1478/17
+<200,driver> okay/word_1479/1
+<201,copilot> so/word_1481/1 we/word_1482/2 make/word_1483/3 a/word_1484/4 slight/word_1485/5 left/word_1486/6 turn/word_1487/7 and/word_1488/8 follow/word_1489/9 the/word_1490/10 road/word_1491/11 we/word_1492/12 go/word_1493/13 straight/word_1494/14 past/word_1495/15 the/word_1496/16 stop/word_1497/17 sign/word_1498/18 I/word_1500/19 should/word_1501/20 say/word_1502/21 straight/word_1503/22 after/word_1504/23 the/word_1505/24 stop/word_1506/25 sign/word_1507/26 not/word_1508/27
+<202,copilot> past/word_1511/1 the/word_1512/2 stop/word_1513/3 sign/word_1514/4 that's/word_1515/5 the/word_1516/6 second/word_1517/7 time/word_1518/8 I'm/word_1519/9 making/word_1520/10 this/word_1521/11 mistake/word_1522/12
+<203,driver> I/word_1524/1 understood/word_1525/2
+<204,copilot> so/word_1528/1 we/word_1530/2 go/word_1532/3 beyond/word_1534/4
+<205,driver> and/word_1529/1 this/word_1531/2
+<206,driver> continues/word_1533/1 straight/word_1535/2
+<207,copilot> we/word_1536/1 continue/word_1537/2 straight/word_1538/3 we/word_1539/4 go/word_1540/5 beyond/word_1541/6 the/word_1542/7 post/word_1543/8 office/word_1544/9 we/word_1545/10 went/word_1546/11 to/word_1547/12
+<208,driver> okay/word_1548/1
+<209,copilot> yesterday/word_1549/1 and/word_1550/2 we/word_1551/3 make/word_1552/4 a/word_1553/5 left/word_1554/6 into/word_1555/7 the/word_1556/8 parking/word_1557/9 lot/word_1558/10
+<210,driver> right/word_1560/1 here/word_1561/2
+<211,copilot> yeah/word_1562/1
+<212,driver> okay/word_1564/1
+<213,copilot> so/word_1565/1 we/word_1566/2 make/word_1567/3 a/word_1568/4 left/word_1569/5
+<214,driver> okay/word_1570/1
+<215,copilot> we/word_1571/1 make/word_1572/2 a/word_1573/3 right/word_1574/4
+<216,driver> right/word_1575/1
+<217,copilot> and/word_1576/1 we/word_1577/2 go/word_1578/3 past/word_1579/4 three/word_1580/5 buildings/word_1581/6 on/word_1582/7 the/word_1583/8 left/word_1584/9 hand/word_1585/10 side/word_1586/11
+<218,driver> okay/word_1587/1 one/word_1588/2 two/word_1589/3
+<219,copilot> we/word_1591/1 continue/word_1592/2 straight/word_1594/3 we/word_1595/4 continue/word_1596/5 straight/word_1597/6 and/word_1598/7 the/word_1599/8 building/word_1600/9 right/word_1601/10 in/word_1602/11 front/word_1603/12 of/word_1604/13 us/word_1605/14 is/word_1606/15 the/word_1607/16 one/word_1608/17 that/word_1609/18 has/word_1610/19 Crown/word_1611/20 Start-Up/word_1612/21 Funds/word_1613/22
+<220,driver> three/word_1593/1
+<221,driver> okay/word_1614/1
+<222,copilot> we/word_1615/1 can/word_1616/2 park/word_1617/3 where/word_1618/4 it's/word_1620/5 convenient/word_1621/6
+<223,driver> park/word_1619/1
+<224,driver> okay/word_1623/1 great/word_1625/2
+<225,copilot> so/word_1626/1 the/word_1627/2 one/word_1628/3 thing/word_1629/4 that/word_1630/5 I/word_1631/6 should/word_1632/7 do/word_1633/8 at/word_1634/9 this/word_1635/10 point/word_1636/11 is/word_1637/12 to/word_1638/13 reset/word_1639/14 the/word_1640/15 three/word_1642/16 sixty/word_1643/17 degree/word_1644/18 camera/word_1645/19
+<226,driver> okay/word_1646/1
+<227,copilot> stop/word_1647/1 it/word_1648/2 and/word_1649/3 start/word_1650/4 it/word_1651/5 again/word_1652/6 and/word_1653/7 I'll/word_1654/8 be/word_1655/9 back/word_1656/10
+<228,driver> okay/word_1658/1
+<229,copilot> because/word_1660/1 it/word_1661/2 doesn't/word_1662/3 capture/word_1663/4 more/word_1664/5 than/word_1665/6 thirty/word_1666/7 minutes/word_1667/8
+<230,driver> ohh/word_1670/1
+<231,copilot> yeah/word_1671/1 okay/word_1672/2
+<232,driver> okay/word_1674/1
+<233,copilot> here's/word_1675/1 your/word_1676/2 next/word_1677/3 task/word_1678/4
+<234,driver> okay/word_1680/1 I/word_1682/2 need/word_1683/3 to/word_1684/4 go/word_1685/5 to/word_1686/6 Nanotech/word_1687/7 for/word_1688/8 a/word_1689/9 meeting/word_1690/10 can/word_1691/11 you/word_1692/12 show/word_1693/13 me/word_1694/14 how/word_1695/15 to/word_1696/16 get/word_1697/17 there/word_1698/18
+<235,copilot> I/word_1699/1 can/word_1700/2 certainly/word_1701/3 do/word_1702/4 that/word_1703/5 when/word_1704/6 you/word_1705/7 were/word_1706/8 at/word_1707/9 your/word_1708/10 meeting/word_1709/11 with/word_1712/12 Crown/word_1713/13 Start-Up/word_1714/14 Funds/word_1715/15 you/word_1716/16 got/word_1717/17 a/word_1718/18 text/word_1719/19 message/word_1720/20 from/word_1721/21 Sam/word_1722/22
+<236,driver> ohh/word_1723/1 okay/word_1724/2
+<237,copilot> should/word_1725/1 I/word_1726/2 read/word_1727/3 it/word_1728/4 to/word_1729/5 you/word_1730/6
+<238,driver> sure/word_1731/1 please/word_1732/2
+<239,copilot> he/word_1734/1 says/word_1735/2 how/word_1736/3 did/word_1737/4 your/word_1738/5 meeting/word_1739/6 go/word_1740/7 I'll/word_1741/8 be/word_1742/9 at/word_1743/10 my/word_1744/11 house/word_1745/12 this/word_1746/13 afternoon/word_1747/14 I'll/word_1750/15 be/word_1751/16 at/word_1752/17 my/word_1753/18 house/word_1754/19 this/word_1755/20 afternoon/word_1756/21 if/word_1758/22 you/word_1759/23 want/word_1760/24 to/word_1761/25 meet/word_1762/26 up/word_1763/27 the/word_1764/28 address/word_1765/29 is/word_1766/30 four/word_1767/31 seventeen/word_1768/32 McCoon/word_1770/33
+<240,driver> great/word_1772/1 could/word_1773/2 you/word_1774/3 text/word_1775/4 Sam/word_1776/5 back/word_1777/6 that/word_1778/7 the/word_1779/8 meeting/word_1780/9 went/word_1781/10 very/word_1782/11 well/word_1783/12
+<241,copilot> okay/word_1784/1
+<242,driver> could/word_1785/1 you/word_1786/2 also/word_1787/3 note/word_1788/4 that/word_1789/5 address/word_1790/6 for/word_1791/7 later/word_1792/8
+<243,copilot> yes/word_1794/1 it's/word_1795/2 been/word_1796/3 done/word_1797/4
+<244,driver> great/word_1798/1 so/word_1799/2 now/word_1800/3 we/word_1801/4 need/word_1802/5 to/word_1803/6 proceed/word_1804/7 over/word_1805/8 to/word_1806/9 Nanotech/word_1807/10
+<245,copilot> Nanotech/word_1808/1 so/word_1809/2 let's/word_1810/3 pull/word_1811/4 out/word_1812/5 of/word_1813/6 the/word_1814/7 parking/word_1815/8 lot/word_1816/9
+<246,driver> okay/word_1817/1
+<247,copilot> so/word_1819/1 we're/word_1820/2 gonna/word_1821/3 go/word_1822/4 straight/word_1823/5 here/word_1824/6
+<248,driver> okay/word_1825/1
+<249,copilot> you/word_1826/1 have/word_1827/2 an/word_1828/3 incoming/word_1829/4 text/word_1830/5 message/word_1831/6 from/word_1832/7 Phil/word_1833/8
+<250,driver> could/word_1834/1 you/word_1835/2 read/word_1836/3 that/word_1837/4 please/word_1838/5
+<251,copilot> it/word_1839/1 says/word_1840/2 the/word_1841/3 vice/word_1842/4 president/word_1843/5 just/word_1844/6 got/word_1845/7 here/word_1846/8 and/word_1847/9 I/word_1848/10 left/word_1849/11 the/word_1850/12 quart-/word_1851/13 the/word_1852/14 quarterly/word_1853/15 report/word_1854/16 in/word_1855/17 your/word_1856/18 back/word_1857/19 seat/word_1858/20 I/word_1859/21 need/word_1860/22 you/word_1861/23 to/word_1862/24 drop/word_1863/25 it/word_1864/26 off/word_1865/27 as/word_1866/28 soon/word_1867/29 as/word_1868/30 possible/word_1869/31
+<252,driver> okay/word_1870/1
+<253,copilot> we/word_1872/1 make/word_1873/2 a/word_1874/3 left/word_1875/4
+<254,driver> can/word_1876/1 you/word_1877/2 direct/word_1878/3 me/word_1879/4 to/word_1880/5 where/word_1881/6 we/word_1882/7 need/word_1883/8 to/word_1884/9 drop/word_1885/10 it/word_1886/11 off/word_1887/12
+<255,copilot> to/word_1888/1 the/word_1889/2 army/word_1890/3 barracks/word_1891/4
+<256,driver> okay/word_1892/1 great/word_1893/2 so/word_1894/3 I'll/word_1895/4 pull/word_1896/5 out/word_1897/6 of/word_1898/7 this/word_1899/8 parking/word_1900/9 lot/word_1902/10
+<257,copilot> you/word_1903/1 pull/word_1904/2 out/word_1905/3 of/word_1906/4 the/word_1907/5 parking/word_1908/6 lot/word_1909/7 and/word_1910/8 make/word_1911/9 a/word_1912/10 left/word_1913/11
+<258,driver> okay/word_1914/1
+<259,copilot> would/word_1915/1 you/word_1916/2 like/word_1917/3 me/word_1918/4 to/word_1919/5 text/word_1920/6 Sam/word_1921/7
+<260,driver> yes/word_1924/1 and/word_1925/2 let/word_1926/3 him/word_1927/4 know/word_1928/5 we're/word_1929/6 on/word_1930/7 the/word_1931/8 way/word_1932/9
+<261,copilot> okay/word_1933/1
+<262,driver> is/word_1934/1 that/word_1935/2
+<263,copilot> ohh/word_1936/1 this/word_1937/2 is/word_1938/3 Phil/word_1939/4
+<264,driver> ohh/word_1940/1 Phil/word_1941/2
+<265,copilot> okay/word_1943/1
+<266,driver> so/word_1945/1 left/word_1946/2 or/word_1947/3 right/word_1948/4 at/word_1949/5
+<267,copilot> and/word_1950/1 we/word_1951/2 make/word_1952/3 a/word_1953/4 left/word_1954/5
+<268,driver> left/word_1955/1 okay/word_1956/2 I/word_1957/3 lost/word_1958/4 track/word_1959/5 of/word_1960/6 who/word_1961/7 needed/word_1962/8 the/word_1963/9 report/word_1964/10
+<269,copilot> actually/word_1966/1 I/word_1967/2 made/word_1968/3 a/word_1969/4 mistake/word_1970/5 but/word_1971/6
+<270,driver> okay/word_1973/1 so/word_1974/2 continue/word_1975/3 through/word_1979/4 the/word_1980/5 stop/word_1982/6 sign/word_1983/7
+<271,copilot> so/word_1976/1 we/word_1977/2 go/word_1978/3 straight/word_1981/4
+<272,copilot> yes/word_1984/1 and/word_1985/2 we/word_1986/3 go/word_1987/4 straight/word_1988/5 after/word_1989/6 the/word_1990/7 stop/word_1991/8 sign/word_1992/9 so/word_1993/10 you/word_1994/11 got/word_1995/12 a/word_1996/13 text/word_1997/14 message/word_1998/15 from/word_1999/16 Sam/word_2000/17 who/word_2001/18 wants/word_2002/19 to/word_2003/20 know/word_2004/21 if/word_2005/22 you'll/word_2006/23 be/word_2007/24 free/word_2008/25 to/word_2009/26 meet/word_2010/27 for/word_2011/28 dinner/word_2012/29 this/word_2013/30 evening/word_2014/31
+<273,driver> okay/word_2015/1 I/word_2016/2 turn/word_2017/3 right/word_2018/4 here/word_2019/5 right/word_2020/6
+<274,copilot> you/word_2021/1 make/word_2022/2 a/word_2023/3 right/word_2024/4 here/word_2025/5
+<275,driver> okay/word_2027/1 yes/word_2028/2 I'll/word_2029/3 be/word_2030/4 free/word_2031/5 for/word_2032/6 dinner/word_2033/7 if/word_2034/8 you/word_2035/9 could/word_2036/10 text/word_2037/11 him/word_2038/12 and/word_2039/13 let/word_2040/14 him/word_2041/15 know/word_2042/16 I/word_2044/17 think/word_2045/18 it/word_2046/19 was/word_2047/20 left/word_2048/21 at/word_2049/22 the/word_2050/23 stop/word_2051/24 sign/word_2052/25
+<276,copilot> yes/word_2053/1 it/word_2054/2 is/word_2055/3 left/word_2056/4 at/word_2057/5 the/word_2058/6 stop/word_2059/7 sign/word_2060/8 Sam/word_2061/9 wants/word_2062/10 to/word_2063/11 know/word_2064/12 what/word_2065/13 time/word_2066/14 you'd/word_2067/15 like/word_2068/16 to/word_2069/17 meet/word_2070/18 for/word_2071/19 dinner/word_2072/20
+<277,driver> if/word_2073/1 you/word_2074/2 could/word_2075/3 tell/word_2076/4 Sam/word_2077/5 six/word_2078/6 thirty/word_2079/7 that'd/word_2081/8 be/word_2082/9 great/word_2083/10 and/word_2086/11 then/word_2087/12 right/word_2088/13 at/word_2089/14 the/word_2090/15 stop/word_2091/16 sign/word_2092/17
+<278,copilot> right/word_2093/1 at/word_2094/2 the/word_2095/3 stop/word_2096/4 sign/word_2097/5
+<279,driver> ohh/word_2099/1 here/word_2100/2 it/word_2101/3 is/word_2102/4 okay/word_2103/5 so/word_2104/6 I/word_2105/7 turn/word_2106/8 right/word_2107/9 into/word_2108/10 the/word_2109/11 driveway/word_2110/12
+<280,copilot> yes/word_2111/1
+<281,driver> alright/word_2112/1 great/word_2113/2 okay/word_2114/3 so/word_2115/4 I'm/word_2116/5 dropping/word_2117/6 off/word_2118/7 the/word_2119/8 report/word_2120/9
+<282,copilot> yes/word_2121/1
+<283,driver> now/word_2123/1 I/word_2124/2 still/word_2125/3 need/word_2126/4 to/word_2127/5 continue/word_2128/6 on/word_2129/7 to/word_2130/8 Nanotech/word_2131/9 could/word_2132/10
+<284,copilot> yes/word_2133/1
+<285,driver> you/word_2134/1 give/word_2135/2 me/word_2136/3 directions/word_2137/4
+<286,copilot> absolutely/word_2138/1
+<287,driver> okay/word_2139/1 pull/word_2140/2 out/word_2141/3 of/word_2142/4 the/word_2143/5 parking/word_2144/6 lot/word_2145/7
+<288,copilot> we/word_2147/1 make/word_2148/2 a/word_2149/3 left/word_2150/4 after/word_2151/5 we/word_2152/6 pull/word_2153/7 out/word_2154/8 of/word_2155/9 the/word_2156/10 parking/word_2157/11 lot/word_2158/12
+<289,driver> okay/word_2159/1
+<290,copilot> we/word_2160/1 make/word_2161/2 a/word_2162/3 slight/word_2163/4 left/word_2164/5 at/word_2165/6 the/word_2166/7 stop/word_2167/8 sign/word_2168/9
+<291,driver> okay/word_2169/1
+<292,copilot> you/word_2170/1 have/word_2171/2 an/word_2172/3 incoming/word_2173/4 text/word_2174/5 message/word_2175/6 from/word_2176/7 Phil/word_2177/8 who/word_2178/9 thanks/word_2179/10 you/word_2180/11 very/word_2181/12 much/word_2182/13 for/word_2183/14 having/word_2184/15 brought/word_2185/16 him/word_2186/17 the/word_2187/18 report/word_2188/19 and/word_2189/20 he/word_2190/21 wants/word_2191/22 to/word_2192/23 know/word_2193/24 if/word_2194/25 he/word_2195/26 can/word_2196/27 buy/word_2197/28 you/word_2198/29 dinner/word_2199/30 tonight/word_2200/31
+<293,driver> am/word_2201/1 I/word_2202/2 already/word_2203/3 having/word_2204/4 dinner/word_2205/5 with/word_2206/6 Phil/word_2207/7 or/word_2208/8 was/word_2209/9 it/word_2210/10 Sam/word_2211/11 that/word_2212/12 I/word_2213/13 was/word_2214/14 having/word_2215/15
+<294,copilot> with/word_2216/1 Sam/word_2217/2
+<295,driver> ohh/word_2218/1 that/word_2219/2 was/word_2220/3 with/word_2221/4 Sam/word_2222/5 could/word_2224/6 you/word_2225/7 let/word_2226/8 Phil/word_2227/9 know/word_2228/10 I'm/word_2229/11 busy/word_2230/12 for/word_2231/13 dinner/word_2232/14 tonight/word_2233/15
+<296,copilot> okay/word_2235/1 you/word_2236/2 have/word_2237/3 a/word_2238/4 text/word_2239/5 message/word_2240/6 from/word_2241/7 Phil/word_2242/8 he/word_2243/9 says/word_2244/10 that/word_2245/11 he's/word_2246/12 free/word_2247/13 only/word_2248/14 this/word_2249/15 evening/word_2250/16 for/word_2251/17 dinner/word_2252/18
+<297,driver> do/word_2253/1 I/word_2254/2 continue/word_2255/3 straight/word_2256/4
+<298,copilot> you/word_2257/1 continue/word_2258/2 straight/word_2259/3 and/word_2260/4 that/word_2261/5 he/word_2262/6 has/word_2263/7 to/word_2264/8 leave/word_2265/9 town/word_2266/10 tomorrow/word_2267/11
+<299,driver> okay/word_2268/1 can/word_2269/2 you/word_2270/3 see/word_2271/4 if/word_2272/5 Sam/word_2273/6 can/word_2274/7 postpone/word_2275/8 and/word_2276/9 send/word_2277/10 a/word_2278/11 text/word_2279/12 to/word_2280/13 Sam/word_2281/14 continue/word_2282/15 straight/word_2283/16
+<300,copilot> continue/word_2284/1 straight/word_2285/2 so/word_2286/3 we/word_2287/4 make/word_2288/5 a/word_2289/6 left/word_2290/7 at/word_2291/8 this/word_2292/9
+<301,driver> at/word_2293/1 the/word_2294/2 driveway/word_2295/3
+<302,copilot> at/word_2296/1 the/word_2297/2 driveway/word_2298/3 and/word_2300/4 Nanotech/word_2301/5 is/word_2302/6 the/word_2303/7 first/word_2304/8 building/word_2305/9 on/word_2306/10 the/word_2307/11 right/word_2308/12 hand/word_2309/13 side/word_2310/14 with/word_2311/15 the/word_2312/16 antenna/word_2313/17 on/word_2314/18 top/word_2315/19 of/word_2316/20 it/word_2317/21
+<303,driver> okay/word_2318/1 okay/word_2320/2 alright/word_2322/3 I'm/word_2324/4 at/word_2325/5 my/word_2326/6 meeting/word_2327/7
+<304,copilot> that/word_2328/1 is/word_2329/2 the/word_2330/3 last/word_2331/4 one/word_2332/5
+<305,driver> okay/word_2333/1 great/word_2334/2 I/word_2335/3 now/word_2336/4 need/word_2337/5 to/word_2338/6 go/word_2339/7 back/word_2340/8 to/word_2341/9 the/word_2342/10 hotel/word_2343/11 I'm/word_2344/12 all/word_2345/13 finished/word_2346/14
+<306,copilot> okay/word_2347/1
+<307,driver> could/word_2349/1 you/word_2350/2 give/word_2351/3 me/word_2352/4 directions/word_2353/5
+<308,copilot> yes/word_2354/1 so/word_2355/2 let's/word_2356/3 pull/word_2357/4 out/word_2358/5 of/word_2359/6 the/word_2360/7 parking/word_2361/8 lot/word_2362/9 you/word_2363/10 have/word_2364/11 a/word_2365/12 text/word_2366/13 message/word_2367/14 from/word_2368/15 Sam/word_2369/16 who/word_2370/17 says/word_2371/18 that/word_2372/19 he'd/word_2373/20 prefer/word_2374/21 to/word_2375/22 meet/word_2376/23 you/word_2377/24 alone/word_2378/25 because/word_2379/26 he/word_2380/27 has/word_2381/28 something/word_2382/29 confidential/word_2383/30 to/word_2384/31 discuss/word_2385/32
+<309,driver> okay/word_2387/1 can/word_2388/2 Sam/word_2389/3 meet/word_2390/4 later/word_2391/5 after/word_2392/6 dinner/word_2393/7 could/word_2394/8 you/word_2395/9 ask/word_2396/10 Sam/word_2397/11
+<310,copilot> we/word_2400/1 make/word_2401/2 a/word_2402/3 right/word_2403/4
+<311,driver> are/word_2404/1
+<312,copilot> we/word_2405/1 go/word_2407/2 straight/word_2408/3
+<313,driver> we/word_2406/1
+<314,driver> going/word_2409/1 to/word_2410/2 the/word_2411/3 left/word_2412/4 okay/word_2413/5
+<315,copilot> so/word_2414/1 you/word_2415/2 have/word_2416/3 a/word_2417/4 response/word_2418/5 from/word_2419/6 Sam/word_2420/7 who/word_2421/8 says/word_2422/9 that/word_2423/10 he/word_2424/11 can/word_2425/12 meet/word_2426/13 you/word_2427/14 after/word_2428/15 dinner/word_2429/16 for/word_2430/17 a/word_2431/18 drink/word_2432/19
+<316,driver> great/word_2433/1 that/word_2434/2 would/word_2435/3 be/word_2436/4 perfect/word_2437/5 could/word_2438/6 you/word_2439/7 tell/word_2440/8 him/word_2441/9 let's/word_2442/10 meet/word_2443/11 at/word_2444/12 nine/word_2445/13
+<317,copilot> so/word_2447/1 we/word_2448/2 make/word_2449/3 a/word_2450/4 left/word_2451/5 then/word_2452/6 we/word_2453/7 make/word_2454/8 a/word_2455/9 right/word_2456/10 so/word_2458/11 we/word_2459/12 make/word_2460/13 a/word_2461/14 left/word_2462/15 at/word_2463/16 this/word_2464/17 point/word_2465/18 you/word_2467/19 have/word_2468/20 a/word_2469/21 text/word_2470/22 message/word_2471/23 from/word_2472/24 Phil/word_2473/25 he/word_2474/26 wants/word_2475/27 to/word_2476/28 know/word_2477/29 where/word_2478/30 you/word_2479/31 want/word_2480/32 to/word_2481/33 meet/word_2482/34 at/word_2483/35 what/word_2484/36 time/word_2485/37 you/word_2486/38 would/word_2487/39 you/word_2488/40 like/word_2489/41 to/word_2490/42 meet/word_2491/43 we/word_2492/44 make/word_2493/45 a/word_2494/46 left/word_2495/47
+<318,driver> left/word_2497/1 so/word_2499/2 we'll/word_2500/3 meet/word_2501/4 at/word_2502/5 six/word_2503/6 at/word_2504/7 the/word_2505/8 hotel/word_2506/9 if/word_2507/10 you/word_2508/11 could/word_2509/12 text/word_2510/13 him/word_2511/14
+<319,copilot> so/word_2514/1 we/word_2515/2 continue/word_2516/3 to/word_2517/4 follow/word_2518/5 the/word_2519/6 road/word_2520/7 after/word_2521/8 the/word_2522/9 stop/word_2523/10 sign/word_2524/11
+<320,driver> okay/word_2525/1
+<321,copilot> and/word_2526/1 we/word_2527/2 make/word_2528/3 a/word_2529/4 left/word_2530/5 to/word_2531/6 get/word_2532/7 into/word_2533/8 the/word_2534/9 hotel/word_2535/10 parking/word_2536/11 lot/word_2537/12
+<322,driver> okay/word_2539/1
+<323,copilot> we/word_2540/1 make/word_2541/2 a/word_2542/3 right/word_2543/4
+<324,driver> go/word_2544/1 around/word_2545/2 to/word_2546/3 the/word_2547/4 back/word_2548/5 of/word_2549/6 the/word_2551/7 building/word_2553/8
+<325,copilot> go/word_2550/1 around/word_2552/2 to/word_2554/3 the/word_2555/4 back/word_2556/5 of/word_2557/6 the/word_2558/7 building/word_2559/8
+<326,driver> okay/word_2560/1
+<327,copilot> park/word_2561/1 where/word_2562/2 it's/word_2563/3 convenient/word_2564/4

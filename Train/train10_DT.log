@@ -1,0 +1,1787 @@
+
+J48 pruned tree
+------------------
+
+word_dist <= 8
+|   grammer1 = ADJP: False (0.0)
+|   grammer1 = -ADV: False (0.0)
+|   grammer1 = ADVP: False (4.0)
+|   grammer1 = -BNF: False (0.0)
+|   grammer1 = CC: False (0.0)
+|   grammer1 = CD: False (2.0)
+|   grammer1 = -CLF: False (0.0)
+|   grammer1 = -CLR: False (0.0)
+|   grammer1 = CONJP: False (0.0)
+|   grammer1 = -DIR: False (0.0)
+|   grammer1 = DT: False (0.0)
+|   grammer1 = -DTV: False (0.0)
+|   grammer1 = EX: False (0.0)
+|   grammer1 = -EXT: False (0.0)
+|   grammer1 = FRAG: False (6.0)
+|   grammer1 = FW: False (0.0)
+|   grammer1 = -HLN: False (0.0)
+|   grammer1 = IN: True (2.0/1.0)
+|   grammer1 = INTJ: False (0.0)
+|   grammer1 = JJ: False (0.0)
+|   grammer1 = JJR: False (0.0)
+|   grammer1 = JJS: False (0.0)
+|   grammer1 = -LGS: False (0.0)
+|   grammer1 = -LOC: False (0.0)
+|   grammer1 = LS: False (0.0)
+|   grammer1 = LST: False (0.0)
+|   grammer1 = MD: False (1.0)
+|   grammer1 = -MNR: False (0.0)
+|   grammer1 = NAC: False (0.0)
+|   grammer1 = NN: False (86.0/12.0)
+|   grammer1 = NNS: False (4.0/1.0)
+|   grammer1 = NNP
+|   |   grammer2 = ADJP: False (0.0)
+|   |   grammer2 = -ADV: False (0.0)
+|   |   grammer2 = ADVP: False (2.0)
+|   |   grammer2 = -BNF: False (0.0)
+|   |   grammer2 = CC: False (1.0)
+|   |   grammer2 = CD: False (1.0)
+|   |   grammer2 = -CLF: False (0.0)
+|   |   grammer2 = -CLR: False (0.0)
+|   |   grammer2 = CONJP: False (0.0)
+|   |   grammer2 = -DIR: False (0.0)
+|   |   grammer2 = DT
+|   |   |   dep1 <= 11: False (29.0/2.0)
+|   |   |   dep1 > 11
+|   |   |   |   dep1 <= 18: True (2.0)
+|   |   |   |   dep1 > 18: False (2.0)
+|   |   grammer2 = -DTV: False (0.0)
+|   |   grammer2 = EX: False (7.0/1.0)
+|   |   grammer2 = -EXT: False (0.0)
+|   |   grammer2 = FRAG: False (0.0)
+|   |   grammer2 = FW: False (0.0)
+|   |   grammer2 = -HLN: False (0.0)
+|   |   grammer2 = IN: True (1.0)
+|   |   grammer2 = INTJ: False (0.0)
+|   |   grammer2 = JJ: False (0.0)
+|   |   grammer2 = JJR: False (0.0)
+|   |   grammer2 = JJS: False (0.0)
+|   |   grammer2 = -LGS: False (0.0)
+|   |   grammer2 = -LOC: False (0.0)
+|   |   grammer2 = LS: False (0.0)
+|   |   grammer2 = LST: False (0.0)
+|   |   grammer2 = MD: False (0.0)
+|   |   grammer2 = -MNR: False (0.0)
+|   |   grammer2 = NAC: False (0.0)
+|   |   grammer2 = NN: False (0.0)
+|   |   grammer2 = NNS: False (0.0)
+|   |   grammer2 = NNP: False (0.0)
+|   |   grammer2 = NNPS: False (0.0)
+|   |   grammer2 = -NOM: False (0.0)
+|   |   grammer2 = NP: False (84.0/5.0)
+|   |   grammer2 = NX: False (0.0)
+|   |   grammer2 = PDT: False (0.0)
+|   |   grammer2 = POS: False (0.0)
+|   |   grammer2 = PP: False (0.0)
+|   |   grammer2 = -PRD: False (0.0)
+|   |   grammer2 = PRN: False (0.0)
+|   |   grammer2 = PRP
+|   |   |   object_dist <= 43
+|   |   |   |   dep2 <= 4
+|   |   |   |   |   word_dist <= 5: True (24.0/5.0)
+|   |   |   |   |   word_dist > 5: False (5.0)
+|   |   |   |   dep2 > 4: True (188.0/34.0)
+|   |   |   object_dist > 43
+|   |   |   |   dep2 <= 6
+|   |   |   |   |   dep2 <= 4: False (3.0)
+|   |   |   |   |   dep2 > 4: True (4.0)
+|   |   |   |   dep2 > 6: False (12.0/1.0)
+|   |   grammer2 = -PRP: False (0.0)
+|   |   grammer2 = PRP$
+|   |   |   speaker_turns <= 2: True (21.0/3.0)
+|   |   |   speaker_turns > 2: False (5.0/1.0)
+|   |   grammer2 = PRP-S: False (0.0)
+|   |   grammer2 = PRT: False (0.0)
+|   |   grammer2 = -PUT: False (0.0)
+|   |   grammer2 = QP: False (0.0)
+|   |   grammer2 = RB: False (208.0/19.0)
+|   |   grammer2 = RBR: False (0.0)
+|   |   grammer2 = RBS: False (0.0)
+|   |   grammer2 = RP: False (0.0)
+|   |   grammer2 = RRC: False (0.0)
+|   |   grammer2 = S
+|   |   |   speaker_turns <= 8
+|   |   |   |   speaker_turns <= 3
+|   |   |   |   |   dep1 <= 6: True (13.0/1.0)
+|   |   |   |   |   dep1 > 6: False (24.0/7.0)
+|   |   |   |   speaker_turns > 3: False (10.0)
+|   |   |   speaker_turns > 8: True (3.0)
+|   |   grammer2 = SBAR: True (2.0/1.0)
+|   |   grammer2 = SBARQ: False (0.0)
+|   |   grammer2 = -SBJ: False (0.0)
+|   |   grammer2 = SINV: False (1.0)
+|   |   grammer2 = SQ: False (0.0)
+|   |   grammer2 = SYM: False (0.0)
+|   |   grammer2 = -TMP: False (0.0)
+|   |   grammer2 = TO: False (0.0)
+|   |   grammer2 = -TPC: False (0.0)
+|   |   grammer2 = -TTL: False (0.0)
+|   |   grammer2 = UCP: False (0.0)
+|   |   grammer2 = UH: False (0.0)
+|   |   grammer2 = VB: False (0.0)
+|   |   grammer2 = VBD: False (0.0)
+|   |   grammer2 = VBG: False (0.0)
+|   |   grammer2 = VBN: False (0.0)
+|   |   grammer2 = VBP: False (0.0)
+|   |   grammer2 = VBZ: False (0.0)
+|   |   grammer2 = -VOC: False (0.0)
+|   |   grammer2 = VP: False (3.0)
+|   |   grammer2 = WDT: False (2.0)
+|   |   grammer2 = WHADJP: False (0.0)
+|   |   grammer2 = WHADVP: False (0.0)
+|   |   grammer2 = WHNP: False (0.0)
+|   |   grammer2 = WHPP: False (0.0)
+|   |   grammer2 = WP: True (5.0/2.0)
+|   |   grammer2 = WP$: False (0.0)
+|   |   grammer2 = WP-S: False (0.0)
+|   |   grammer2 = WRB: False (0.0)
+|   |   grammer2 = X: False (0.0)
+|   |   grammer2 = NP-TMP: False (0.0)
+|   grammer1 = NNPS
+|   |   word_dist <= 4: True (8.0/2.0)
+|   |   word_dist > 4: False (3.0)
+|   grammer1 = -NOM: False (0.0)
+|   grammer1 = NP: False (2868.0/423.0)
+|   grammer1 = NX: False (0.0)
+|   grammer1 = PDT: False (0.0)
+|   grammer1 = POS: False (0.0)
+|   grammer1 = PP: False (4.0)
+|   grammer1 = -PRD: False (0.0)
+|   grammer1 = PRN: False (0.0)
+|   grammer1 = PRP: False (0.0)
+|   grammer1 = -PRP: False (0.0)
+|   grammer1 = PRP$: False (0.0)
+|   grammer1 = PRP-S: False (0.0)
+|   grammer1 = PRT: False (0.0)
+|   grammer1 = -PUT: False (0.0)
+|   grammer1 = QP: False (0.0)
+|   grammer1 = RB: False (0.0)
+|   grammer1 = RBR: False (0.0)
+|   grammer1 = RBS: False (0.0)
+|   grammer1 = RP: False (0.0)
+|   grammer1 = RRC: False (0.0)
+|   grammer1 = S: False (33.0/4.0)
+|   grammer1 = SBAR: False (7.0)
+|   grammer1 = SBARQ: False (0.0)
+|   grammer1 = -SBJ: False (0.0)
+|   grammer1 = SINV: False (11.0/4.0)
+|   grammer1 = SQ: False (0.0)
+|   grammer1 = SYM: False (0.0)
+|   grammer1 = -TMP: False (0.0)
+|   grammer1 = TO: False (0.0)
+|   grammer1 = -TPC: False (0.0)
+|   grammer1 = -TTL: False (0.0)
+|   grammer1 = UCP: False (0.0)
+|   grammer1 = UH: False (0.0)
+|   grammer1 = VB: False (12.0/1.0)
+|   grammer1 = VBD: False (0.0)
+|   grammer1 = VBG: False (0.0)
+|   grammer1 = VBN: False (0.0)
+|   grammer1 = VBP: False (0.0)
+|   grammer1 = VBZ: False (0.0)
+|   grammer1 = -VOC: False (0.0)
+|   grammer1 = VP: False (123.0/20.0)
+|   grammer1 = WDT: False (0.0)
+|   grammer1 = WHADJP: False (0.0)
+|   grammer1 = WHADVP: False (0.0)
+|   grammer1 = WHNP: False (0.0)
+|   grammer1 = WHPP: False (0.0)
+|   grammer1 = WP: False (0.0)
+|   grammer1 = WP$: False (0.0)
+|   grammer1 = WP-S: False (0.0)
+|   grammer1 = WRB: False (3.0)
+|   grammer1 = X: False (4.0/1.0)
+|   grammer1 = NP-TMP: False (0.0)
+word_dist > 8
+|   grammer1 = ADJP
+|   |   speaker_turns <= 78
+|   |   |   grammer2 = ADJP: True (0.0)
+|   |   |   grammer2 = -ADV: True (0.0)
+|   |   |   grammer2 = ADVP: True (0.0)
+|   |   |   grammer2 = -BNF: True (0.0)
+|   |   |   grammer2 = CC: True (0.0)
+|   |   |   grammer2 = CD: True (0.0)
+|   |   |   grammer2 = -CLF: True (0.0)
+|   |   |   grammer2 = -CLR: True (0.0)
+|   |   |   grammer2 = CONJP: True (0.0)
+|   |   |   grammer2 = -DIR: True (0.0)
+|   |   |   grammer2 = DT: False (2.0)
+|   |   |   grammer2 = -DTV: True (0.0)
+|   |   |   grammer2 = EX: False (1.0)
+|   |   |   grammer2 = -EXT: True (0.0)
+|   |   |   grammer2 = FRAG: True (0.0)
+|   |   |   grammer2 = FW: True (0.0)
+|   |   |   grammer2 = -HLN: True (0.0)
+|   |   |   grammer2 = IN: True (2.0)
+|   |   |   grammer2 = INTJ: True (0.0)
+|   |   |   grammer2 = JJ: True (0.0)
+|   |   |   grammer2 = JJR: True (0.0)
+|   |   |   grammer2 = JJS: True (0.0)
+|   |   |   grammer2 = -LGS: True (0.0)
+|   |   |   grammer2 = -LOC: True (0.0)
+|   |   |   grammer2 = LS: True (0.0)
+|   |   |   grammer2 = LST: True (0.0)
+|   |   |   grammer2 = MD: True (0.0)
+|   |   |   grammer2 = -MNR: True (0.0)
+|   |   |   grammer2 = NAC: True (0.0)
+|   |   |   grammer2 = NN: True (0.0)
+|   |   |   grammer2 = NNS: True (0.0)
+|   |   |   grammer2 = NNP: True (0.0)
+|   |   |   grammer2 = NNPS: True (0.0)
+|   |   |   grammer2 = -NOM: True (0.0)
+|   |   |   grammer2 = NP
+|   |   |   |   word_dist <= 48: False (2.0)
+|   |   |   |   word_dist > 48: True (2.0)
+|   |   |   grammer2 = NX: True (0.0)
+|   |   |   grammer2 = PDT: True (0.0)
+|   |   |   grammer2 = POS: True (0.0)
+|   |   |   grammer2 = PP: True (0.0)
+|   |   |   grammer2 = -PRD: True (0.0)
+|   |   |   grammer2 = PRN: True (0.0)
+|   |   |   grammer2 = PRP: True (6.0)
+|   |   |   grammer2 = -PRP: True (0.0)
+|   |   |   grammer2 = PRP$: True (0.0)
+|   |   |   grammer2 = PRP-S: True (0.0)
+|   |   |   grammer2 = PRT: True (0.0)
+|   |   |   grammer2 = -PUT: True (0.0)
+|   |   |   grammer2 = QP: True (0.0)
+|   |   |   grammer2 = RB: False (3.0/1.0)
+|   |   |   grammer2 = RBR: True (0.0)
+|   |   |   grammer2 = RBS: True (0.0)
+|   |   |   grammer2 = RP: True (0.0)
+|   |   |   grammer2 = RRC: True (0.0)
+|   |   |   grammer2 = S: False (2.0)
+|   |   |   grammer2 = SBAR: True (1.0)
+|   |   |   grammer2 = SBARQ: True (0.0)
+|   |   |   grammer2 = -SBJ: True (0.0)
+|   |   |   grammer2 = SINV: True (0.0)
+|   |   |   grammer2 = SQ: True (0.0)
+|   |   |   grammer2 = SYM: True (0.0)
+|   |   |   grammer2 = -TMP: True (0.0)
+|   |   |   grammer2 = TO: True (0.0)
+|   |   |   grammer2 = -TPC: True (0.0)
+|   |   |   grammer2 = -TTL: True (0.0)
+|   |   |   grammer2 = UCP: True (0.0)
+|   |   |   grammer2 = UH: True (0.0)
+|   |   |   grammer2 = VB: True (0.0)
+|   |   |   grammer2 = VBD: True (0.0)
+|   |   |   grammer2 = VBG: True (0.0)
+|   |   |   grammer2 = VBN: True (0.0)
+|   |   |   grammer2 = VBP: True (0.0)
+|   |   |   grammer2 = VBZ: True (0.0)
+|   |   |   grammer2 = -VOC: True (0.0)
+|   |   |   grammer2 = VP: True (0.0)
+|   |   |   grammer2 = WDT: True (1.0)
+|   |   |   grammer2 = WHADJP: True (0.0)
+|   |   |   grammer2 = WHADVP: True (0.0)
+|   |   |   grammer2 = WHNP: True (0.0)
+|   |   |   grammer2 = WHPP: True (0.0)
+|   |   |   grammer2 = WP: True (0.0)
+|   |   |   grammer2 = WP$: True (0.0)
+|   |   |   grammer2 = WP-S: True (0.0)
+|   |   |   grammer2 = WRB: True (0.0)
+|   |   |   grammer2 = X: True (0.0)
+|   |   |   grammer2 = NP-TMP: True (0.0)
+|   |   speaker_turns > 78: False (64.0/5.0)
+|   grammer1 = -ADV: False (0.0)
+|   grammer1 = ADVP: False (129.0)
+|   grammer1 = -BNF: False (0.0)
+|   grammer1 = CC: False (0.0)
+|   grammer1 = CD: False (164.0/49.0)
+|   grammer1 = -CLF: False (0.0)
+|   grammer1 = -CLR: False (0.0)
+|   grammer1 = CONJP: False (0.0)
+|   grammer1 = -DIR: False (0.0)
+|   grammer1 = DT: False (0.0)
+|   grammer1 = -DTV: False (0.0)
+|   grammer1 = EX: False (0.0)
+|   grammer1 = -EXT: False (0.0)
+|   grammer1 = FRAG: False (370.0/2.0)
+|   grammer1 = FW: False (0.0)
+|   grammer1 = -HLN: False (0.0)
+|   grammer1 = IN: False (179.0/14.0)
+|   grammer1 = INTJ: False (0.0)
+|   grammer1 = JJ: False (156.0/2.0)
+|   grammer1 = JJR: False (0.0)
+|   grammer1 = JJS: False (0.0)
+|   grammer1 = -LGS: False (0.0)
+|   grammer1 = -LOC: False (0.0)
+|   grammer1 = LS: False (0.0)
+|   grammer1 = LST: False (0.0)
+|   grammer1 = MD: False (71.0)
+|   grammer1 = -MNR: False (0.0)
+|   grammer1 = NAC: False (0.0)
+|   grammer1 = NN: False (4724.0/122.0)
+|   grammer1 = NNS: False (106.0/1.0)
+|   grammer1 = NNP
+|   |   grammer2 = ADJP: False (0.0)
+|   |   grammer2 = -ADV: False (0.0)
+|   |   grammer2 = ADVP: False (46.0)
+|   |   grammer2 = -BNF: False (0.0)
+|   |   grammer2 = CC: False (41.0)
+|   |   grammer2 = CD: False (12.0/1.0)
+|   |   grammer2 = -CLF: False (0.0)
+|   |   grammer2 = -CLR: False (0.0)
+|   |   grammer2 = CONJP: False (0.0)
+|   |   grammer2 = -DIR: False (0.0)
+|   |   grammer2 = DT: False (823.0/41.0)
+|   |   grammer2 = -DTV: False (0.0)
+|   |   grammer2 = EX: False (202.0/10.0)
+|   |   grammer2 = -EXT: False (0.0)
+|   |   grammer2 = FRAG: False (5.0)
+|   |   grammer2 = FW: False (0.0)
+|   |   grammer2 = -HLN: False (0.0)
+|   |   grammer2 = IN
+|   |   |   dep2 <= 6
+|   |   |   |   dep1 <= 9
+|   |   |   |   |   dep2 <= 5: False (37.0/2.0)
+|   |   |   |   |   dep2 > 5
+|   |   |   |   |   |   speaker_turns <= 136: False (13.0)
+|   |   |   |   |   |   speaker_turns > 136
+|   |   |   |   |   |   |   word_dist <= 480: True (7.0/1.0)
+|   |   |   |   |   |   |   word_dist > 480: False (6.0)
+|   |   |   |   dep1 > 9
+|   |   |   |   |   speaker_turns <= 33: False (6.0)
+|   |   |   |   |   speaker_turns > 33
+|   |   |   |   |   |   dep2 <= 5
+|   |   |   |   |   |   |   speaker_turns <= 272
+|   |   |   |   |   |   |   |   speaker_turns <= 80
+|   |   |   |   |   |   |   |   |   speaker_turns <= 62: True (4.0)
+|   |   |   |   |   |   |   |   |   speaker_turns > 62: False (4.0)
+|   |   |   |   |   |   |   |   speaker_turns > 80: True (6.0)
+|   |   |   |   |   |   |   speaker_turns > 272: False (3.0)
+|   |   |   |   |   |   dep2 > 5
+|   |   |   |   |   |   |   speaker_turns <= 516: True (22.0)
+|   |   |   |   |   |   |   speaker_turns > 516: False (2.0)
+|   |   |   dep2 > 6: False (20.0)
+|   |   grammer2 = INTJ: False (0.0)
+|   |   grammer2 = JJ: False (0.0)
+|   |   grammer2 = JJR: False (0.0)
+|   |   grammer2 = JJS: False (0.0)
+|   |   grammer2 = -LGS: False (0.0)
+|   |   grammer2 = -LOC: False (0.0)
+|   |   grammer2 = LS: False (0.0)
+|   |   grammer2 = LST: False (0.0)
+|   |   grammer2 = MD: False (0.0)
+|   |   grammer2 = -MNR: False (0.0)
+|   |   grammer2 = NAC: False (0.0)
+|   |   grammer2 = NN: False (0.0)
+|   |   grammer2 = NNS: False (0.0)
+|   |   grammer2 = NNP: False (0.0)
+|   |   grammer2 = NNPS: False (0.0)
+|   |   grammer2 = -NOM: False (0.0)
+|   |   grammer2 = NP
+|   |   |   word_dist <= 224: False (1916.0/39.0)
+|   |   |   word_dist > 224
+|   |   |   |   dep1 <= 8: False (393.0/15.0)
+|   |   |   |   dep1 > 8
+|   |   |   |   |   object_dist <= -439
+|   |   |   |   |   |   word_dist <= 397: False (9.0/1.0)
+|   |   |   |   |   |   word_dist > 397: True (13.0)
+|   |   |   |   |   object_dist > -439
+|   |   |   |   |   |   speaker_turns <= 261: False (54.0)
+|   |   |   |   |   |   speaker_turns > 261
+|   |   |   |   |   |   |   dep2 <= 11: False (346.0/30.0)
+|   |   |   |   |   |   |   dep2 > 11
+|   |   |   |   |   |   |   |   dep2 <= 12
+|   |   |   |   |   |   |   |   |   word_dist <= 295: True (7.0)
+|   |   |   |   |   |   |   |   |   word_dist > 295
+|   |   |   |   |   |   |   |   |   |   speaker_turns <= 406: False (3.0)
+|   |   |   |   |   |   |   |   |   |   speaker_turns > 406
+|   |   |   |   |   |   |   |   |   |   |   word_dist <= 447: True (5.0)
+|   |   |   |   |   |   |   |   |   |   |   word_dist > 447: False (3.0/1.0)
+|   |   |   |   |   |   |   |   dep2 > 12: False (22.0/2.0)
+|   |   grammer2 = NX: False (17.0)
+|   |   grammer2 = PDT: False (0.0)
+|   |   grammer2 = POS: False (0.0)
+|   |   grammer2 = PP: False (23.0)
+|   |   grammer2 = -PRD: False (0.0)
+|   |   grammer2 = PRN: False (0.0)
+|   |   grammer2 = PRP
+|   |   |   word_dist <= 380
+|   |   |   |   dep2 <= 19
+|   |   |   |   |   dep2 <= 18
+|   |   |   |   |   |   speaker_turns <= 100
+|   |   |   |   |   |   |   dep1 <= 5: False (514.0/89.0)
+|   |   |   |   |   |   |   dep1 > 5
+|   |   |   |   |   |   |   |   word_dist <= 12
+|   |   |   |   |   |   |   |   |   speaker_turns <= 6
+|   |   |   |   |   |   |   |   |   |   speaker_turns <= 2: False (9.0/2.0)
+|   |   |   |   |   |   |   |   |   |   speaker_turns > 2
+|   |   |   |   |   |   |   |   |   |   |   dep2 <= 14
+|   |   |   |   |   |   |   |   |   |   |   |   dep2 <= 4: False (4.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   dep2 > 4: True (28.0/4.0)
+|   |   |   |   |   |   |   |   |   |   |   dep2 > 14: False (2.0)
+|   |   |   |   |   |   |   |   |   speaker_turns > 6: False (42.0/9.0)
+|   |   |   |   |   |   |   |   word_dist > 12
+|   |   |   |   |   |   |   |   |   speaker_turns <= 65
+|   |   |   |   |   |   |   |   |   |   word_dist <= 48: False (683.0/146.0)
+|   |   |   |   |   |   |   |   |   |   word_dist > 48
+|   |   |   |   |   |   |   |   |   |   |   dep1 <= 9
+|   |   |   |   |   |   |   |   |   |   |   |   speaker_turns <= 57: False (194.0/90.0)
+|   |   |   |   |   |   |   |   |   |   |   |   speaker_turns > 57
+|   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns <= 63
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   object_dist <= 510: False (32.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   object_dist > 510
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   object_dist <= 521: True (6.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   object_dist > 521: False (12.0/2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns > 63
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   word_dist <= 83: True (4.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   word_dist > 83: False (7.0/2.0)
+|   |   |   |   |   |   |   |   |   |   |   dep1 > 9
+|   |   |   |   |   |   |   |   |   |   |   |   dep1 <= 11
+|   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns <= 48
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   word_dist <= 61
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns <= 34: False (4.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns > 34: True (6.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   word_dist > 61: False (14.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns > 48: False (54.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   dep1 > 11
+|   |   |   |   |   |   |   |   |   |   |   |   |   word_dist <= 75
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   object_dist <= 299
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   dep1 <= 19: True (18.0/6.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   dep1 > 19: False (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   object_dist > 299: False (59.0/8.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   word_dist > 75
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   word_dist <= 107
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns <= 64
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   dep1 <= 12: False (5.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   dep1 > 12
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   dep1 <= 14: True (7.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   dep1 > 14
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   object_dist <= 444
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   dep1 <= 18: True (7.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   dep1 > 18
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   word_dist <= 85: False (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   word_dist > 85: True (4.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   object_dist > 444: False (16.0/3.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns > 64: True (6.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   word_dist > 107: False (4.0)
+|   |   |   |   |   |   |   |   |   speaker_turns > 65
+|   |   |   |   |   |   |   |   |   |   speaker_turns <= 82
+|   |   |   |   |   |   |   |   |   |   |   word_dist <= 54: False (48.0)
+|   |   |   |   |   |   |   |   |   |   |   word_dist > 54
+|   |   |   |   |   |   |   |   |   |   |   |   dep2 <= 9: False (190.0/20.0)
+|   |   |   |   |   |   |   |   |   |   |   |   dep2 > 9
+|   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns <= 77
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   dep2 <= 16: False (43.0/12.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   dep2 > 16
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   word_dist <= 116: True (8.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   word_dist > 116: False (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns > 77: False (25.0/1.0)
+|   |   |   |   |   |   |   |   |   |   speaker_turns > 82
+|   |   |   |   |   |   |   |   |   |   |   object_dist <= 439
+|   |   |   |   |   |   |   |   |   |   |   |   word_dist <= 65
+|   |   |   |   |   |   |   |   |   |   |   |   |   dep1 <= 12: True (10.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   dep1 > 12
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   dep2 <= 7: False (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   dep2 > 7: True (3.0)
+|   |   |   |   |   |   |   |   |   |   |   |   word_dist > 65: False (2.0)
+|   |   |   |   |   |   |   |   |   |   |   object_dist > 439: False (240.0/51.0)
+|   |   |   |   |   |   speaker_turns > 100
+|   |   |   |   |   |   |   speaker_turns <= 448
+|   |   |   |   |   |   |   |   dep2 <= 4
+|   |   |   |   |   |   |   |   |   word_dist <= 264
+|   |   |   |   |   |   |   |   |   |   speaker_turns <= 206
+|   |   |   |   |   |   |   |   |   |   |   object_dist <= 1179
+|   |   |   |   |   |   |   |   |   |   |   |   speaker_turns <= 165
+|   |   |   |   |   |   |   |   |   |   |   |   |   word_dist <= 116
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   object_dist <= 655
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   word_dist <= 90: False (7.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   word_dist > 90
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   word_dist <= 98: True (3.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   word_dist > 98: False (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   object_dist > 655
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns <= 145
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   dep1 <= 5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   word_dist <= 104: True (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   word_dist > 104: False (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   dep1 > 5: True (23.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns > 145: False (4.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   word_dist > 116
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   object_dist <= 1053
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns <= 158: False (42.0/6.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns > 158: True (5.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   object_dist > 1053
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns <= 151: True (16.0/4.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns > 151: False (3.0)
+|   |   |   |   |   |   |   |   |   |   |   |   speaker_turns > 165
+|   |   |   |   |   |   |   |   |   |   |   |   |   dep1 <= 12: True (13.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   dep1 > 12
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   dep1 <= 15: False (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   dep1 > 15: True (4.0)
+|   |   |   |   |   |   |   |   |   |   |   object_dist > 1179
+|   |   |   |   |   |   |   |   |   |   |   |   word_dist <= 224
+|   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns <= 130: True (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns > 130: False (28.0)
+|   |   |   |   |   |   |   |   |   |   |   |   word_dist > 224
+|   |   |   |   |   |   |   |   |   |   |   |   |   object_dist <= 1389
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns <= 154: False (10.0/4.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns > 154: True (4.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   object_dist > 1389: False (4.0)
+|   |   |   |   |   |   |   |   |   |   speaker_turns > 206
+|   |   |   |   |   |   |   |   |   |   |   object_dist <= 1170: True (12.0)
+|   |   |   |   |   |   |   |   |   |   |   object_dist > 1170
+|   |   |   |   |   |   |   |   |   |   |   |   dep1 <= 14
+|   |   |   |   |   |   |   |   |   |   |   |   |   object_dist <= 1961: False (30.0/13.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   object_dist > 1961: True (8.0)
+|   |   |   |   |   |   |   |   |   |   |   |   dep1 > 14
+|   |   |   |   |   |   |   |   |   |   |   |   |   dep1 <= 18: True (10.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   dep1 > 18
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   word_dist <= 219: True (11.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   word_dist > 219: False (3.0)
+|   |   |   |   |   |   |   |   |   word_dist > 264
+|   |   |   |   |   |   |   |   |   |   speaker_turns <= 363: False (28.0)
+|   |   |   |   |   |   |   |   |   |   speaker_turns > 363
+|   |   |   |   |   |   |   |   |   |   |   speaker_turns <= 413
+|   |   |   |   |   |   |   |   |   |   |   |   speaker_turns <= 370: True (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   speaker_turns > 370: False (9.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   speaker_turns > 413: True (7.0/1.0)
+|   |   |   |   |   |   |   |   dep2 > 4
+|   |   |   |   |   |   |   |   |   word_dist <= 109
+|   |   |   |   |   |   |   |   |   |   dep1 <= 11
+|   |   |   |   |   |   |   |   |   |   |   object_dist <= 665
+|   |   |   |   |   |   |   |   |   |   |   |   speaker_turns <= 104
+|   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns <= 101: False (4.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns > 101: True (11.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   speaker_turns > 104: False (84.0/9.0)
+|   |   |   |   |   |   |   |   |   |   |   object_dist > 665
+|   |   |   |   |   |   |   |   |   |   |   |   dep2 <= 5: False (9.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   dep2 > 5
+|   |   |   |   |   |   |   |   |   |   |   |   |   dep1 <= 7
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   object_dist <= 703
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   dep1 <= 6: True (20.0/3.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   dep1 > 6: False (3.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   object_dist > 703
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   word_dist <= 104: False (16.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   word_dist > 104
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   dep1 <= 4: False (3.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   dep1 > 4
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns <= 131: False (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns > 131: True (6.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   dep1 > 7
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   dep1 <= 8
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   object_dist <= 885: True (13.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   object_dist > 885: False (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   dep1 > 8
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns <= 125
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   object_dist <= 689: False (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   object_dist > 689: True (12.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns > 125: False (6.0)
+|   |   |   |   |   |   |   |   |   |   dep1 > 11
+|   |   |   |   |   |   |   |   |   |   |   dep1 <= 18
+|   |   |   |   |   |   |   |   |   |   |   |   dep1 <= 15: True (61.0/21.0)
+|   |   |   |   |   |   |   |   |   |   |   |   dep1 > 15
+|   |   |   |   |   |   |   |   |   |   |   |   |   word_dist <= 91: False (5.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   word_dist > 91: True (2.0)
+|   |   |   |   |   |   |   |   |   |   |   dep1 > 18: True (25.0/2.0)
+|   |   |   |   |   |   |   |   |   word_dist > 109
+|   |   |   |   |   |   |   |   |   |   dep2 <= 15
+|   |   |   |   |   |   |   |   |   |   |   speaker_turns <= 320
+|   |   |   |   |   |   |   |   |   |   |   |   word_dist <= 272
+|   |   |   |   |   |   |   |   |   |   |   |   |   dep1 <= 4
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns <= 141
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   object_dist <= 930: False (12.0/3.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   object_dist > 930
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   word_dist <= 219
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   object_dist <= 1126
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns <= 118: True (9.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns > 118: False (7.0/2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   object_dist > 1126: True (16.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   word_dist > 219: False (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns > 141
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns <= 309
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   dep2 <= 12
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   object_dist <= 1286
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   word_dist <= 140: False (21.0/5.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   word_dist > 140: True (18.0/5.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   object_dist > 1286
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns <= 272: False (31.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns > 272
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   word_dist <= 244: True (5.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   word_dist > 244
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   word_dist <= 262: False (10.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   word_dist > 262: True (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   dep2 > 12: False (7.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns > 309: True (5.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   dep1 > 4
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns <= 306
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   object_dist <= 1832
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   dep2 <= 7: False (523.0/133.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   dep2 > 7
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   dep2 <= 8
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns <= 202
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   word_dist <= 158
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   word_dist <= 151: False (53.0/19.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   word_dist > 151: True (8.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   word_dist > 158
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   dep1 <= 5: True (3.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   dep1 > 5: False (23.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns > 202
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   word_dist <= 232: True (36.0/10.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   word_dist > 232: False (8.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   dep2 > 8
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   dep2 <= 9
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns <= 145
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   object_dist <= 1019
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   word_dist <= 119
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   object_dist <= 743: False (3.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   object_dist > 743: True (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   word_dist > 119: False (8.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   object_dist > 1019
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   dep1 <= 7: True (7.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   dep1 > 7
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   object_dist <= 1048: True (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   object_dist > 1048: False (4.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns > 145: False (39.0/4.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   dep2 > 9: False (343.0/86.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   object_dist > 1832
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   object_dist <= 2099
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns <= 264: False (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns > 264
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   dep1 <= 18: True (24.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   dep1 > 18
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   dep2 <= 6: True (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   dep2 > 6: False (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   object_dist > 2099: False (4.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns > 306: False (31.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   word_dist > 272: False (140.0/10.0)
+|   |   |   |   |   |   |   |   |   |   |   speaker_turns > 320
+|   |   |   |   |   |   |   |   |   |   |   |   object_dist <= 2026
+|   |   |   |   |   |   |   |   |   |   |   |   |   dep1 <= 14
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   object_dist <= 1797
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   dep1 <= 5: False (11.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   dep1 > 5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   dep2 <= 10: True (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   dep2 > 10: False (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   object_dist > 1797
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   dep1 <= 5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   dep1 <= 4: True (15.0/3.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   dep1 > 4: False (10.0/2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   dep1 > 5: True (50.0/6.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   dep1 > 14: False (10.0)
+|   |   |   |   |   |   |   |   |   |   |   |   object_dist > 2026
+|   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns <= 385
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   dep1 <= 18: False (110.0/14.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   dep1 > 18
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   dep2 <= 11
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns <= 358: False (3.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns > 358: True (9.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   dep2 > 11: False (4.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns > 385
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   word_dist <= 338
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns <= 426
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   dep2 <= 10
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns <= 423
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns <= 416
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   word_dist <= 290: False (5.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   word_dist > 290
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   dep1 <= 18: True (7.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   dep1 > 18: False (3.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns > 416: False (13.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns > 423: True (3.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   dep2 > 10
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns <= 422: True (17.0/2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns > 422: False (4.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns > 426: False (28.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   word_dist > 338
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   dep2 <= 12
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   dep2 <= 10
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   object_dist <= 2969
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   word_dist <= 365
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   dep1 <= 8
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns <= 444
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   object_dist <= 2286: True (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   object_dist > 2286: False (10.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns > 444: True (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   dep1 > 8: True (12.0/3.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   word_dist > 365: True (12.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   object_dist > 2969: False (4.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   dep2 > 10: True (10.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   dep2 > 12: False (3.0)
+|   |   |   |   |   |   |   |   |   |   dep2 > 15
+|   |   |   |   |   |   |   |   |   |   |   speaker_turns <= 143
+|   |   |   |   |   |   |   |   |   |   |   |   speaker_turns <= 124: False (11.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   speaker_turns > 124
+|   |   |   |   |   |   |   |   |   |   |   |   |   dep2 <= 16: False (6.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   dep2 > 16
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   dep1 <= 12: True (6.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   dep1 > 12: False (3.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   speaker_turns > 143
+|   |   |   |   |   |   |   |   |   |   |   |   speaker_turns <= 337: False (74.0/2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   speaker_turns > 337
+|   |   |   |   |   |   |   |   |   |   |   |   |   word_dist <= 305: True (5.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   word_dist > 305: False (10.0)
+|   |   |   |   |   |   |   speaker_turns > 448: False (71.0/2.0)
+|   |   |   |   |   dep2 > 18: True (95.0/44.0)
+|   |   |   |   dep2 > 19
+|   |   |   |   |   speaker_turns <= 84: False (46.0)
+|   |   |   |   |   speaker_turns > 84
+|   |   |   |   |   |   speaker_turns <= 92: True (4.0)
+|   |   |   |   |   |   speaker_turns > 92: False (71.0/10.0)
+|   |   |   word_dist > 380: False (730.0/20.0)
+|   |   grammer2 = -PRP: False (0.0)
+|   |   grammer2 = PRP$
+|   |   |   object_dist <= 2315
+|   |   |   |   dep2 <= 18
+|   |   |   |   |   dep2 <= 13
+|   |   |   |   |   |   dep1 <= 9
+|   |   |   |   |   |   |   dep1 <= 8
+|   |   |   |   |   |   |   |   word_dist <= 191
+|   |   |   |   |   |   |   |   |   object_dist <= 992
+|   |   |   |   |   |   |   |   |   |   dep1 <= 7: False (79.0/15.0)
+|   |   |   |   |   |   |   |   |   |   dep1 > 7
+|   |   |   |   |   |   |   |   |   |   |   dep2 <= 8: True (5.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   dep2 > 8: False (5.0/1.0)
+|   |   |   |   |   |   |   |   |   object_dist > 992
+|   |   |   |   |   |   |   |   |   |   dep1 <= 6: True (21.0/3.0)
+|   |   |   |   |   |   |   |   |   |   dep1 > 6: False (7.0/1.0)
+|   |   |   |   |   |   |   |   word_dist > 191: False (28.0/2.0)
+|   |   |   |   |   |   |   dep1 > 8
+|   |   |   |   |   |   |   |   word_dist <= 151
+|   |   |   |   |   |   |   |   |   word_dist <= 83
+|   |   |   |   |   |   |   |   |   |   word_dist <= 36: False (2.0)
+|   |   |   |   |   |   |   |   |   |   word_dist > 36: True (3.0)
+|   |   |   |   |   |   |   |   |   word_dist > 83: False (3.0)
+|   |   |   |   |   |   |   |   word_dist > 151: True (7.0)
+|   |   |   |   |   |   dep1 > 9: False (85.0/10.0)
+|   |   |   |   |   dep2 > 13
+|   |   |   |   |   |   speaker_turns <= 328
+|   |   |   |   |   |   |   speaker_turns <= 187
+|   |   |   |   |   |   |   |   speaker_turns <= 159
+|   |   |   |   |   |   |   |   |   dep1 <= 15
+|   |   |   |   |   |   |   |   |   |   word_dist <= 120
+|   |   |   |   |   |   |   |   |   |   |   dep1 <= 5: True (9.0)
+|   |   |   |   |   |   |   |   |   |   |   dep1 > 5
+|   |   |   |   |   |   |   |   |   |   |   |   speaker_turns <= 97
+|   |   |   |   |   |   |   |   |   |   |   |   |   dep1 <= 6: False (7.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   dep1 > 6
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns <= 73
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   word_dist <= 49
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns <= 27: False (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns > 27
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   dep1 <= 8: True (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   dep1 > 8: False (3.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   word_dist > 49: True (6.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns > 73: False (3.0)
+|   |   |   |   |   |   |   |   |   |   |   |   speaker_turns > 97: True (3.0)
+|   |   |   |   |   |   |   |   |   |   word_dist > 120: False (6.0)
+|   |   |   |   |   |   |   |   |   dep1 > 15: False (4.0)
+|   |   |   |   |   |   |   |   speaker_turns > 159
+|   |   |   |   |   |   |   |   |   word_dist <= 158: True (13.0)
+|   |   |   |   |   |   |   |   |   word_dist > 158
+|   |   |   |   |   |   |   |   |   |   speaker_turns <= 180
+|   |   |   |   |   |   |   |   |   |   |   dep1 <= 14: False (4.0)
+|   |   |   |   |   |   |   |   |   |   |   dep1 > 14: True (2.0)
+|   |   |   |   |   |   |   |   |   |   speaker_turns > 180: True (2.0)
+|   |   |   |   |   |   |   speaker_turns > 187: False (14.0)
+|   |   |   |   |   |   speaker_turns > 328: True (12.0)
+|   |   |   |   dep2 > 18: False (20.0)
+|   |   |   object_dist > 2315: False (86.0)
+|   |   grammer2 = PRP-S: False (0.0)
+|   |   grammer2 = PRT: False (0.0)
+|   |   grammer2 = -PUT: False (0.0)
+|   |   grammer2 = QP: False (0.0)
+|   |   grammer2 = RB
+|   |   |   dep1 <= 9: False (3227.0/42.0)
+|   |   |   dep1 > 9
+|   |   |   |   dep2 <= 28
+|   |   |   |   |   speaker_turns <= 217: False (1256.0/34.0)
+|   |   |   |   |   speaker_turns > 217
+|   |   |   |   |   |   word_dist <= 203
+|   |   |   |   |   |   |   dep2 <= 14
+|   |   |   |   |   |   |   |   dep2 <= 8
+|   |   |   |   |   |   |   |   |   word_dist <= 183: False (10.0)
+|   |   |   |   |   |   |   |   |   word_dist > 183
+|   |   |   |   |   |   |   |   |   |   dep2 <= 5: False (7.0/1.0)
+|   |   |   |   |   |   |   |   |   |   dep2 > 5: True (7.0/1.0)
+|   |   |   |   |   |   |   |   dep2 > 8: False (7.0)
+|   |   |   |   |   |   |   dep2 > 14: True (3.0)
+|   |   |   |   |   |   word_dist > 203
+|   |   |   |   |   |   |   dep2 <= 8: False (301.0/6.0)
+|   |   |   |   |   |   |   dep2 > 8
+|   |   |   |   |   |   |   |   dep2 <= 10
+|   |   |   |   |   |   |   |   |   dep2 <= 9
+|   |   |   |   |   |   |   |   |   |   speaker_turns <= 584: False (56.0/3.0)
+|   |   |   |   |   |   |   |   |   |   speaker_turns > 584
+|   |   |   |   |   |   |   |   |   |   |   speaker_turns <= 651: True (5.0)
+|   |   |   |   |   |   |   |   |   |   |   speaker_turns > 651
+|   |   |   |   |   |   |   |   |   |   |   |   speaker_turns <= 729: False (5.0)
+|   |   |   |   |   |   |   |   |   |   |   |   speaker_turns > 729
+|   |   |   |   |   |   |   |   |   |   |   |   |   word_dist <= 640: True (5.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   word_dist > 640: False (2.0)
+|   |   |   |   |   |   |   |   |   dep2 > 9
+|   |   |   |   |   |   |   |   |   |   word_dist <= 392
+|   |   |   |   |   |   |   |   |   |   |   dep1 <= 14: False (19.0/4.0)
+|   |   |   |   |   |   |   |   |   |   |   dep1 > 14
+|   |   |   |   |   |   |   |   |   |   |   |   speaker_turns <= 281: False (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   speaker_turns > 281: True (8.0/1.0)
+|   |   |   |   |   |   |   |   |   |   word_dist > 392: False (27.0)
+|   |   |   |   |   |   |   |   dep2 > 10: False (141.0/4.0)
+|   |   |   |   dep2 > 28
+|   |   |   |   |   word_dist <= 77
+|   |   |   |   |   |   speaker_turns <= 18: False (6.0/1.0)
+|   |   |   |   |   |   speaker_turns > 18: True (5.0)
+|   |   |   |   |   word_dist > 77: False (17.0)
+|   |   grammer2 = RBR: False (0.0)
+|   |   grammer2 = RBS: False (0.0)
+|   |   grammer2 = RP: False (0.0)
+|   |   grammer2 = RRC: False (0.0)
+|   |   grammer2 = S
+|   |   |   dep2 <= 2: False (545.0/12.0)
+|   |   |   dep2 > 2
+|   |   |   |   speaker_turns <= 422
+|   |   |   |   |   dep2 <= 5
+|   |   |   |   |   |   dep2 <= 3
+|   |   |   |   |   |   |   speaker_turns <= 85: False (27.0/5.0)
+|   |   |   |   |   |   |   speaker_turns > 85
+|   |   |   |   |   |   |   |   word_dist <= 314: True (50.0/10.0)
+|   |   |   |   |   |   |   |   word_dist > 314: False (3.0)
+|   |   |   |   |   |   dep2 > 3
+|   |   |   |   |   |   |   dep1 <= 14: False (174.0/39.0)
+|   |   |   |   |   |   |   dep1 > 14
+|   |   |   |   |   |   |   |   dep2 <= 4
+|   |   |   |   |   |   |   |   |   speaker_turns <= 141
+|   |   |   |   |   |   |   |   |   |   speaker_turns <= 10: True (2.0)
+|   |   |   |   |   |   |   |   |   |   speaker_turns > 10: False (11.0/1.0)
+|   |   |   |   |   |   |   |   |   speaker_turns > 141: True (20.0/5.0)
+|   |   |   |   |   |   |   |   dep2 > 4
+|   |   |   |   |   |   |   |   |   word_dist <= 248
+|   |   |   |   |   |   |   |   |   |   speaker_turns <= 230
+|   |   |   |   |   |   |   |   |   |   |   word_dist <= 130
+|   |   |   |   |   |   |   |   |   |   |   |   object_dist <= 645: False (3.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   object_dist > 645: True (4.0)
+|   |   |   |   |   |   |   |   |   |   |   word_dist > 130: False (5.0)
+|   |   |   |   |   |   |   |   |   |   speaker_turns > 230: True (4.0)
+|   |   |   |   |   |   |   |   |   word_dist > 248: False (6.0)
+|   |   |   |   |   dep2 > 5
+|   |   |   |   |   |   dep2 <= 7: False (165.0/5.0)
+|   |   |   |   |   |   dep2 > 7
+|   |   |   |   |   |   |   dep2 <= 8
+|   |   |   |   |   |   |   |   speaker_turns <= 59: False (7.0)
+|   |   |   |   |   |   |   |   speaker_turns > 59
+|   |   |   |   |   |   |   |   |   dep1 <= 8: False (5.0/2.0)
+|   |   |   |   |   |   |   |   |   dep1 > 8: True (12.0)
+|   |   |   |   |   |   |   dep2 > 8
+|   |   |   |   |   |   |   |   dep2 <= 17
+|   |   |   |   |   |   |   |   |   dep2 <= 12: False (125.0/9.0)
+|   |   |   |   |   |   |   |   |   dep2 > 12
+|   |   |   |   |   |   |   |   |   |   speaker_turns <= 330
+|   |   |   |   |   |   |   |   |   |   |   word_dist <= 127
+|   |   |   |   |   |   |   |   |   |   |   |   speaker_turns <= 76: False (33.0/6.0)
+|   |   |   |   |   |   |   |   |   |   |   |   speaker_turns > 76
+|   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns <= 93: True (6.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns > 93
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   object_dist <= 826: False (4.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   object_dist > 826: True (4.0)
+|   |   |   |   |   |   |   |   |   |   |   word_dist > 127: False (17.0)
+|   |   |   |   |   |   |   |   |   |   speaker_turns > 330: True (4.0)
+|   |   |   |   |   |   |   |   dep2 > 17: False (27.0/2.0)
+|   |   |   |   speaker_turns > 422: False (90.0)
+|   |   grammer2 = SBAR
+|   |   |   dep2 <= 13: False (52.0)
+|   |   |   dep2 > 13
+|   |   |   |   speaker_turns <= 147: False (4.0)
+|   |   |   |   speaker_turns > 147
+|   |   |   |   |   speaker_turns <= 529: True (14.0)
+|   |   |   |   |   speaker_turns > 529: False (4.0)
+|   |   grammer2 = SBARQ: False (0.0)
+|   |   grammer2 = -SBJ: False (0.0)
+|   |   grammer2 = SINV
+|   |   |   dep1 <= 8: False (13.0/1.0)
+|   |   |   dep1 > 8
+|   |   |   |   speaker_turns <= 322: True (12.0/1.0)
+|   |   |   |   speaker_turns > 322: False (2.0)
+|   |   grammer2 = SQ: False (0.0)
+|   |   grammer2 = SYM: False (0.0)
+|   |   grammer2 = -TMP: False (0.0)
+|   |   grammer2 = TO: False (0.0)
+|   |   grammer2 = -TPC: False (0.0)
+|   |   grammer2 = -TTL: False (0.0)
+|   |   grammer2 = UCP: False (0.0)
+|   |   grammer2 = UH: False (0.0)
+|   |   grammer2 = VB: False (0.0)
+|   |   grammer2 = VBD: False (0.0)
+|   |   grammer2 = VBG: False (0.0)
+|   |   grammer2 = VBN: False (0.0)
+|   |   grammer2 = VBP: False (0.0)
+|   |   grammer2 = VBZ: False (0.0)
+|   |   grammer2 = -VOC: False (0.0)
+|   |   grammer2 = VP
+|   |   |   dep1 <= 11: False (24.0/2.0)
+|   |   |   dep1 > 11
+|   |   |   |   word_dist <= 137: True (12.0/1.0)
+|   |   |   |   word_dist > 137: False (4.0)
+|   |   grammer2 = WDT
+|   |   |   speaker_turns <= 279: False (72.0/6.0)
+|   |   |   speaker_turns > 279
+|   |   |   |   word_dist <= 442: True (12.0)
+|   |   |   |   word_dist > 442: False (5.0)
+|   |   grammer2 = WHADJP: False (0.0)
+|   |   grammer2 = WHADVP: False (0.0)
+|   |   grammer2 = WHNP: False (0.0)
+|   |   grammer2 = WHPP: False (0.0)
+|   |   grammer2 = WP
+|   |   |   speaker_turns <= 143: False (5.0)
+|   |   |   speaker_turns > 143
+|   |   |   |   speaker_turns <= 285: True (6.0)
+|   |   |   |   speaker_turns > 285: False (4.0)
+|   |   grammer2 = WP$: False (0.0)
+|   |   grammer2 = WP-S: False (0.0)
+|   |   grammer2 = WRB: False (0.0)
+|   |   grammer2 = X: False (0.0)
+|   |   grammer2 = NP-TMP: False (0.0)
+|   grammer1 = NNPS: False (280.0/14.0)
+|   grammer1 = -NOM: False (0.0)
+|   grammer1 = NP
+|   |   grammer2 = ADJP: False (0.0)
+|   |   grammer2 = -ADV: False (0.0)
+|   |   grammer2 = ADVP: False (204.0)
+|   |   grammer2 = -BNF: False (0.0)
+|   |   grammer2 = CC: False (109.0)
+|   |   grammer2 = CD: False (99.0)
+|   |   grammer2 = -CLF: False (0.0)
+|   |   grammer2 = -CLR: False (0.0)
+|   |   grammer2 = CONJP: False (0.0)
+|   |   grammer2 = -DIR: False (0.0)
+|   |   grammer2 = DT: False (5714.0/259.0)
+|   |   grammer2 = -DTV: False (0.0)
+|   |   grammer2 = EX: False (1989.0/44.0)
+|   |   grammer2 = -EXT: False (0.0)
+|   |   grammer2 = FRAG: False (127.0/2.0)
+|   |   grammer2 = FW: False (0.0)
+|   |   grammer2 = -HLN: False (0.0)
+|   |   grammer2 = IN
+|   |   |   dep2 <= 6
+|   |   |   |   dep2 <= 5
+|   |   |   |   |   word_dist <= 86
+|   |   |   |   |   |   speaker_turns <= 54
+|   |   |   |   |   |   |   word_dist <= 34
+|   |   |   |   |   |   |   |   dep1 <= 3: True (7.0/2.0)
+|   |   |   |   |   |   |   |   dep1 > 3: False (45.0/5.0)
+|   |   |   |   |   |   |   word_dist > 34: False (44.0)
+|   |   |   |   |   |   speaker_turns > 54
+|   |   |   |   |   |   |   word_dist <= 49: True (8.0)
+|   |   |   |   |   |   |   word_dist > 49: False (36.0/12.0)
+|   |   |   |   |   word_dist > 86: False (404.0/34.0)
+|   |   |   |   dep2 > 5
+|   |   |   |   |   object_dist <= 1654: False (197.0/53.0)
+|   |   |   |   |   object_dist > 1654
+|   |   |   |   |   |   word_dist <= 262: True (19.0)
+|   |   |   |   |   |   word_dist > 262: False (172.0/32.0)
+|   |   |   dep2 > 6: False (122.0/3.0)
+|   |   grammer2 = INTJ: False (0.0)
+|   |   grammer2 = JJ: False (0.0)
+|   |   grammer2 = JJR: False (0.0)
+|   |   grammer2 = JJS: False (0.0)
+|   |   grammer2 = -LGS: False (0.0)
+|   |   grammer2 = -LOC: False (0.0)
+|   |   grammer2 = LS: False (0.0)
+|   |   grammer2 = LST: False (0.0)
+|   |   grammer2 = MD: False (0.0)
+|   |   grammer2 = -MNR: False (0.0)
+|   |   grammer2 = NAC: False (0.0)
+|   |   grammer2 = NN: False (0.0)
+|   |   grammer2 = NNS: False (0.0)
+|   |   grammer2 = NNP: False (0.0)
+|   |   grammer2 = NNPS: False (0.0)
+|   |   grammer2 = -NOM: False (0.0)
+|   |   grammer2 = NP
+|   |   |   object_dist <= -1896
+|   |   |   |   word_dist <= 313: False (152.0/22.0)
+|   |   |   |   word_dist > 313: True (52.0/19.0)
+|   |   |   object_dist > -1896
+|   |   |   |   speaker_turns <= 288
+|   |   |   |   |   dep2 <= 14
+|   |   |   |   |   |   dep2 <= 13
+|   |   |   |   |   |   |   dep2 <= 11: False (12780.0/275.0)
+|   |   |   |   |   |   |   dep2 > 11
+|   |   |   |   |   |   |   |   speaker_turns <= 157: False (386.0/13.0)
+|   |   |   |   |   |   |   |   speaker_turns > 157
+|   |   |   |   |   |   |   |   |   object_dist <= 1201
+|   |   |   |   |   |   |   |   |   |   dep2 <= 12
+|   |   |   |   |   |   |   |   |   |   |   object_dist <= 1103: True (10.0)
+|   |   |   |   |   |   |   |   |   |   |   object_dist > 1103
+|   |   |   |   |   |   |   |   |   |   |   |   speaker_turns <= 177: False (4.0)
+|   |   |   |   |   |   |   |   |   |   |   |   speaker_turns > 177: True (7.0)
+|   |   |   |   |   |   |   |   |   |   dep2 > 12: False (6.0)
+|   |   |   |   |   |   |   |   |   object_dist > 1201: False (129.0/6.0)
+|   |   |   |   |   |   dep2 > 13
+|   |   |   |   |   |   |   speaker_turns <= 158
+|   |   |   |   |   |   |   |   object_dist <= 697
+|   |   |   |   |   |   |   |   |   speaker_turns <= 67: False (16.0)
+|   |   |   |   |   |   |   |   |   speaker_turns > 67
+|   |   |   |   |   |   |   |   |   |   dep1 <= 3: True (3.0)
+|   |   |   |   |   |   |   |   |   |   dep1 > 3
+|   |   |   |   |   |   |   |   |   |   |   dep1 <= 4: False (2.0)
+|   |   |   |   |   |   |   |   |   |   |   dep1 > 4: True (3.0)
+|   |   |   |   |   |   |   |   object_dist > 697: False (26.0)
+|   |   |   |   |   |   |   speaker_turns > 158
+|   |   |   |   |   |   |   |   word_dist <= 196: True (8.0/1.0)
+|   |   |   |   |   |   |   |   word_dist > 196: False (38.0/1.0)
+|   |   |   |   |   dep2 > 14: False (1104.0/13.0)
+|   |   |   |   speaker_turns > 288
+|   |   |   |   |   dep2 <= 8: False (4325.0/91.0)
+|   |   |   |   |   dep2 > 8
+|   |   |   |   |   |   word_dist <= 395
+|   |   |   |   |   |   |   speaker_turns <= 398
+|   |   |   |   |   |   |   |   word_dist <= 289
+|   |   |   |   |   |   |   |   |   speaker_turns <= 314
+|   |   |   |   |   |   |   |   |   |   dep2 <= 11
+|   |   |   |   |   |   |   |   |   |   |   dep2 <= 9
+|   |   |   |   |   |   |   |   |   |   |   |   speaker_turns <= 300: False (5.0)
+|   |   |   |   |   |   |   |   |   |   |   |   speaker_turns > 300
+|   |   |   |   |   |   |   |   |   |   |   |   |   object_dist <= 1775: True (6.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   object_dist > 1775: False (5.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   dep2 > 9: False (36.0/4.0)
+|   |   |   |   |   |   |   |   |   |   dep2 > 11
+|   |   |   |   |   |   |   |   |   |   |   dep1 <= 8
+|   |   |   |   |   |   |   |   |   |   |   |   word_dist <= 281
+|   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns <= 295: True (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns > 295: False (3.0)
+|   |   |   |   |   |   |   |   |   |   |   |   word_dist > 281: True (2.0)
+|   |   |   |   |   |   |   |   |   |   |   dep1 > 8: True (8.0)
+|   |   |   |   |   |   |   |   |   speaker_turns > 314
+|   |   |   |   |   |   |   |   |   |   dep2 <= 12
+|   |   |   |   |   |   |   |   |   |   |   speaker_turns <= 361
+|   |   |   |   |   |   |   |   |   |   |   |   dep2 <= 10: False (45.0)
+|   |   |   |   |   |   |   |   |   |   |   |   dep2 > 10
+|   |   |   |   |   |   |   |   |   |   |   |   |   object_dist <= 2126: False (20.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   object_dist > 2126: True (3.0)
+|   |   |   |   |   |   |   |   |   |   |   speaker_turns > 361
+|   |   |   |   |   |   |   |   |   |   |   |   object_dist <= 2224: True (4.0)
+|   |   |   |   |   |   |   |   |   |   |   |   object_dist > 2224: False (2.0)
+|   |   |   |   |   |   |   |   |   |   dep2 > 12: False (15.0)
+|   |   |   |   |   |   |   |   word_dist > 289
+|   |   |   |   |   |   |   |   |   dep2 <= 17: False (351.0/7.0)
+|   |   |   |   |   |   |   |   |   dep2 > 17
+|   |   |   |   |   |   |   |   |   |   word_dist <= 348: False (13.0/1.0)
+|   |   |   |   |   |   |   |   |   |   word_dist > 348: True (6.0/1.0)
+|   |   |   |   |   |   |   speaker_turns > 398
+|   |   |   |   |   |   |   |   word_dist <= 338
+|   |   |   |   |   |   |   |   |   dep2 <= 12
+|   |   |   |   |   |   |   |   |   |   speaker_turns <= 427
+|   |   |   |   |   |   |   |   |   |   |   dep2 <= 10
+|   |   |   |   |   |   |   |   |   |   |   |   speaker_turns <= 406: False (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   speaker_turns > 406: True (10.0)
+|   |   |   |   |   |   |   |   |   |   |   dep2 > 10: True (3.0)
+|   |   |   |   |   |   |   |   |   |   speaker_turns > 427
+|   |   |   |   |   |   |   |   |   |   |   speaker_turns <= 443: False (5.0)
+|   |   |   |   |   |   |   |   |   |   |   speaker_turns > 443
+|   |   |   |   |   |   |   |   |   |   |   |   object_dist <= 2715: True (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   object_dist > 2715: False (2.0)
+|   |   |   |   |   |   |   |   |   dep2 > 12: False (7.0)
+|   |   |   |   |   |   |   |   word_dist > 338
+|   |   |   |   |   |   |   |   |   dep2 <= 13
+|   |   |   |   |   |   |   |   |   |   dep2 <= 11
+|   |   |   |   |   |   |   |   |   |   |   speaker_turns <= 510: False (72.0/5.0)
+|   |   |   |   |   |   |   |   |   |   |   speaker_turns > 510: True (4.0/1.0)
+|   |   |   |   |   |   |   |   |   |   dep2 > 11
+|   |   |   |   |   |   |   |   |   |   |   word_dist <= 356: False (14.0)
+|   |   |   |   |   |   |   |   |   |   |   word_dist > 356
+|   |   |   |   |   |   |   |   |   |   |   |   speaker_turns <= 445: True (7.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   speaker_turns > 445
+|   |   |   |   |   |   |   |   |   |   |   |   |   object_dist <= 3072: False (16.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   object_dist > 3072: True (3.0/1.0)
+|   |   |   |   |   |   |   |   |   dep2 > 13
+|   |   |   |   |   |   |   |   |   |   dep2 <= 14: True (5.0)
+|   |   |   |   |   |   |   |   |   |   dep2 > 14: False (7.0)
+|   |   |   |   |   |   word_dist > 395: False (867.0/35.0)
+|   |   grammer2 = NX: False (90.0)
+|   |   grammer2 = PDT: False (0.0)
+|   |   grammer2 = POS: False (0.0)
+|   |   grammer2 = PP: False (239.0/3.0)
+|   |   grammer2 = -PRD: False (0.0)
+|   |   grammer2 = PRN: False (0.0)
+|   |   grammer2 = PRP
+|   |   |   word_dist <= 252
+|   |   |   |   dep1 <= 7: False (12194.0/649.0)
+|   |   |   |   dep1 > 7
+|   |   |   |   |   dep1 <= 27
+|   |   |   |   |   |   dep1 <= 16
+|   |   |   |   |   |   |   dep1 <= 15
+|   |   |   |   |   |   |   |   dep1 <= 12
+|   |   |   |   |   |   |   |   |   word_dist <= 155
+|   |   |   |   |   |   |   |   |   |   object_dist <= 695
+|   |   |   |   |   |   |   |   |   |   |   word_dist <= 40
+|   |   |   |   |   |   |   |   |   |   |   |   speaker_turns <= 42: False (615.0/45.0)
+|   |   |   |   |   |   |   |   |   |   |   |   speaker_turns > 42
+|   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns <= 59
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   object_dist <= 292
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns <= 48
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   dep1 <= 10: True (8.0/2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   dep1 > 10: False (4.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns > 48: False (17.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   object_dist > 292
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns <= 51
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   dep1 <= 9: True (4.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   dep1 > 9: False (7.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns > 51: True (8.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns > 59: False (20.0)
+|   |   |   |   |   |   |   |   |   |   |   word_dist > 40: False (1177.0/67.0)
+|   |   |   |   |   |   |   |   |   |   object_dist > 695
+|   |   |   |   |   |   |   |   |   |   |   word_dist <= 98
+|   |   |   |   |   |   |   |   |   |   |   |   speaker_turns <= 118
+|   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns <= 111: False (26.0/4.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns > 111
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns <= 117: True (27.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns > 117
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   object_dist <= 777: False (3.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   object_dist > 777: True (9.0)
+|   |   |   |   |   |   |   |   |   |   |   |   speaker_turns > 118: False (40.0)
+|   |   |   |   |   |   |   |   |   |   |   word_dist > 98
+|   |   |   |   |   |   |   |   |   |   |   |   speaker_turns <= 139
+|   |   |   |   |   |   |   |   |   |   |   |   |   object_dist <= 820
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   dep1 <= 11
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns <= 108
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   dep1 <= 8: False (60.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   dep1 > 8
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   word_dist <= 122: False (30.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   word_dist > 122
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns <= 94
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   dep1 <= 9
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   object_dist <= 727: True (5.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   object_dist > 727
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns <= 90
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns <= 87: False (6.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns > 87
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns <= 89: True (5.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns > 89
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   word_dist <= 134: False (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   word_dist > 134: True (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns > 90: False (5.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   dep1 > 9
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   object_dist <= 776
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   word_dist <= 130: True (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   word_dist > 130: False (3.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   object_dist > 776: True (6.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns > 94: False (10.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns > 108
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   object_dist <= 755
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   word_dist <= 111: False (23.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   word_dist > 111: True (19.0/3.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   object_dist > 755
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   word_dist <= 121: False (18.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   word_dist > 121
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   dep1 <= 9
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns <= 118: False (3.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns > 118: True (6.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   dep1 > 9: False (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   dep1 > 11: False (22.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   object_dist > 820
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   word_dist <= 110
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   dep2 <= 4: True (8.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   dep2 > 4: False (20.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   word_dist > 110: False (245.0/7.0)
+|   |   |   |   |   |   |   |   |   |   |   |   speaker_turns > 139
+|   |   |   |   |   |   |   |   |   |   |   |   |   dep1 <= 11
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns <= 151
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   dep1 <= 8
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   word_dist <= 141: False (24.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   word_dist > 141
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   object_dist <= 964
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   object_dist <= 910
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns <= 149: False (3.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns > 149: True (3.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   object_dist > 910: True (5.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   object_dist > 964: False (10.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   dep1 > 8
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   word_dist <= 130
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   dep2 <= 7: True (17.0/4.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   dep2 > 7
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   word_dist <= 123: False (6.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   word_dist > 123: True (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   word_dist > 130
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns <= 150
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns <= 147: False (21.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns > 147
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns <= 148: True (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns > 148: False (6.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns > 150: True (5.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns > 151: False (274.0/9.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   dep1 > 11
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   word_dist <= 138
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   object_dist <= 929: False (8.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   object_dist > 929
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns <= 149: True (13.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns > 149
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   object_dist <= 1128: False (9.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   object_dist > 1128: True (10.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   word_dist > 138: False (25.0/4.0)
+|   |   |   |   |   |   |   |   |   word_dist > 155
+|   |   |   |   |   |   |   |   |   |   dep2 <= 12
+|   |   |   |   |   |   |   |   |   |   |   speaker_turns <= 234: False (967.0/45.0)
+|   |   |   |   |   |   |   |   |   |   |   speaker_turns > 234
+|   |   |   |   |   |   |   |   |   |   |   |   speaker_turns <= 258
+|   |   |   |   |   |   |   |   |   |   |   |   |   object_dist <= 1741
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   word_dist <= 215
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns <= 241
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   dep2 <= 4: True (13.0/5.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   dep2 > 4
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns <= 239: False (7.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns > 239
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   dep2 <= 10
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   word_dist <= 194: True (3.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   word_dist > 194: False (5.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   dep2 > 10: True (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns > 241: False (39.0/2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   word_dist > 215
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   object_dist <= 1508: False (9.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   object_dist > 1508
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns <= 244
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   word_dist <= 242: False (8.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   word_dist > 242: True (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns > 244: True (29.0/2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   object_dist > 1741: False (32.0)
+|   |   |   |   |   |   |   |   |   |   |   |   speaker_turns > 258: False (314.0/15.0)
+|   |   |   |   |   |   |   |   |   |   dep2 > 12: False (311.0/5.0)
+|   |   |   |   |   |   |   |   dep1 > 12
+|   |   |   |   |   |   |   |   |   object_dist <= 1871: False (887.0/22.0)
+|   |   |   |   |   |   |   |   |   object_dist > 1871
+|   |   |   |   |   |   |   |   |   |   dep1 <= 14
+|   |   |   |   |   |   |   |   |   |   |   word_dist <= 232: True (2.0)
+|   |   |   |   |   |   |   |   |   |   |   word_dist > 232: False (6.0)
+|   |   |   |   |   |   |   |   |   |   dep1 > 14
+|   |   |   |   |   |   |   |   |   |   |   speaker_turns <= 280: False (2.0)
+|   |   |   |   |   |   |   |   |   |   |   speaker_turns > 280
+|   |   |   |   |   |   |   |   |   |   |   |   speaker_turns <= 289: True (8.0)
+|   |   |   |   |   |   |   |   |   |   |   |   speaker_turns > 289
+|   |   |   |   |   |   |   |   |   |   |   |   |   dep2 <= 7: True (4.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   dep2 > 7: False (3.0)
+|   |   |   |   |   |   |   dep1 > 15
+|   |   |   |   |   |   |   |   word_dist <= 120
+|   |   |   |   |   |   |   |   |   object_dist <= 788
+|   |   |   |   |   |   |   |   |   |   word_dist <= 53
+|   |   |   |   |   |   |   |   |   |   |   speaker_turns <= 50: False (37.0/2.0)
+|   |   |   |   |   |   |   |   |   |   |   speaker_turns > 50: True (4.0)
+|   |   |   |   |   |   |   |   |   |   word_dist > 53: False (63.0/2.0)
+|   |   |   |   |   |   |   |   |   object_dist > 788: True (23.0/3.0)
+|   |   |   |   |   |   |   |   word_dist > 120
+|   |   |   |   |   |   |   |   |   object_dist <= 1660: False (158.0/2.0)
+|   |   |   |   |   |   |   |   |   object_dist > 1660
+|   |   |   |   |   |   |   |   |   |   speaker_turns <= 260: True (10.0)
+|   |   |   |   |   |   |   |   |   |   speaker_turns > 260: False (17.0)
+|   |   |   |   |   |   dep1 > 16: False (817.0/36.0)
+|   |   |   |   |   dep1 > 27
+|   |   |   |   |   |   speaker_turns <= 246
+|   |   |   |   |   |   |   object_dist <= 1452: False (48.0/4.0)
+|   |   |   |   |   |   |   object_dist > 1452: True (27.0/10.0)
+|   |   |   |   |   |   speaker_turns > 246: False (18.0)
+|   |   |   word_dist > 252
+|   |   |   |   dep1 <= 13: False (14619.0/270.0)
+|   |   |   |   dep1 > 13
+|   |   |   |   |   dep1 <= 16
+|   |   |   |   |   |   speaker_turns <= 303: False (133.0)
+|   |   |   |   |   |   speaker_turns > 303
+|   |   |   |   |   |   |   dep1 <= 15
+|   |   |   |   |   |   |   |   speaker_turns <= 648
+|   |   |   |   |   |   |   |   |   dep1 <= 14
+|   |   |   |   |   |   |   |   |   |   word_dist <= 302
+|   |   |   |   |   |   |   |   |   |   |   object_dist <= 2294: False (14.0)
+|   |   |   |   |   |   |   |   |   |   |   object_dist > 2294
+|   |   |   |   |   |   |   |   |   |   |   |   speaker_turns <= 392: True (10.0)
+|   |   |   |   |   |   |   |   |   |   |   |   speaker_turns > 392: False (2.0)
+|   |   |   |   |   |   |   |   |   |   word_dist > 302
+|   |   |   |   |   |   |   |   |   |   |   object_dist <= 3173: False (103.0)
+|   |   |   |   |   |   |   |   |   |   |   object_dist > 3173
+|   |   |   |   |   |   |   |   |   |   |   |   word_dist <= 415: True (4.0)
+|   |   |   |   |   |   |   |   |   |   |   |   word_dist > 415
+|   |   |   |   |   |   |   |   |   |   |   |   |   dep2 <= 10: False (34.0/3.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   dep2 > 10
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns <= 631: False (4.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns > 631: True (2.0)
+|   |   |   |   |   |   |   |   |   dep1 > 14
+|   |   |   |   |   |   |   |   |   |   speaker_turns <= 410: False (20.0)
+|   |   |   |   |   |   |   |   |   |   speaker_turns > 410
+|   |   |   |   |   |   |   |   |   |   |   speaker_turns <= 482: True (7.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   speaker_turns > 482: False (22.0/2.0)
+|   |   |   |   |   |   |   |   speaker_turns > 648: False (82.0)
+|   |   |   |   |   |   |   dep1 > 15
+|   |   |   |   |   |   |   |   word_dist <= 421
+|   |   |   |   |   |   |   |   |   dep2 <= 10
+|   |   |   |   |   |   |   |   |   |   speaker_turns <= 317
+|   |   |   |   |   |   |   |   |   |   |   speaker_turns <= 306: True (2.0)
+|   |   |   |   |   |   |   |   |   |   |   speaker_turns > 306: False (2.0)
+|   |   |   |   |   |   |   |   |   |   speaker_turns > 317: False (68.0)
+|   |   |   |   |   |   |   |   |   dep2 > 10
+|   |   |   |   |   |   |   |   |   |   speaker_turns <= 427
+|   |   |   |   |   |   |   |   |   |   |   speaker_turns <= 393
+|   |   |   |   |   |   |   |   |   |   |   |   object_dist <= 2161: True (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   object_dist > 2161: False (9.0)
+|   |   |   |   |   |   |   |   |   |   |   speaker_turns > 393: True (4.0)
+|   |   |   |   |   |   |   |   |   |   speaker_turns > 427: False (12.0)
+|   |   |   |   |   |   |   |   word_dist > 421
+|   |   |   |   |   |   |   |   |   object_dist <= 4180
+|   |   |   |   |   |   |   |   |   |   word_dist <= 535
+|   |   |   |   |   |   |   |   |   |   |   object_dist <= 3324
+|   |   |   |   |   |   |   |   |   |   |   |   object_dist <= 2966: False (7.0)
+|   |   |   |   |   |   |   |   |   |   |   |   object_dist > 2966: True (33.0/14.0)
+|   |   |   |   |   |   |   |   |   |   |   object_dist > 3324: False (54.0)
+|   |   |   |   |   |   |   |   |   |   word_dist > 535: True (43.0/18.0)
+|   |   |   |   |   |   |   |   |   object_dist > 4180: False (57.0/4.0)
+|   |   |   |   |   dep1 > 16: False (806.0/12.0)
+|   |   grammer2 = -PRP: False (0.0)
+|   |   grammer2 = PRP$: False (3109.0/23.0)
+|   |   grammer2 = PRP-S: False (0.0)
+|   |   grammer2 = PRT: False (0.0)
+|   |   grammer2 = -PUT: False (0.0)
+|   |   grammer2 = QP: False (0.0)
+|   |   grammer2 = RB: False (37782.0/787.0)
+|   |   grammer2 = RBR: False (0.0)
+|   |   grammer2 = RBS: False (0.0)
+|   |   grammer2 = RP: False (0.0)
+|   |   grammer2 = RRC: False (0.0)
+|   |   grammer2 = S
+|   |   |   dep2 <= 2: False (4260.0/141.0)
+|   |   |   dep2 > 2
+|   |   |   |   dep2 <= 8
+|   |   |   |   |   dep2 <= 7
+|   |   |   |   |   |   word_dist <= 183
+|   |   |   |   |   |   |   object_dist <= 1374
+|   |   |   |   |   |   |   |   word_dist <= 127
+|   |   |   |   |   |   |   |   |   speaker_turns <= 141
+|   |   |   |   |   |   |   |   |   |   speaker_turns <= 57: False (461.0/34.0)
+|   |   |   |   |   |   |   |   |   |   speaker_turns > 57
+|   |   |   |   |   |   |   |   |   |   |   dep2 <= 3
+|   |   |   |   |   |   |   |   |   |   |   |   dep1 <= 8
+|   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns <= 61: True (7.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns > 61: False (66.0/6.0)
+|   |   |   |   |   |   |   |   |   |   |   |   dep1 > 8
+|   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns <= 101: False (10.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns > 101
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   word_dist <= 108: True (18.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   word_dist > 108: False (2.0)
+|   |   |   |   |   |   |   |   |   |   |   dep2 > 3: False (465.0/61.0)
+|   |   |   |   |   |   |   |   |   speaker_turns > 141
+|   |   |   |   |   |   |   |   |   |   speaker_turns <= 163
+|   |   |   |   |   |   |   |   |   |   |   word_dist <= 116
+|   |   |   |   |   |   |   |   |   |   |   |   object_dist <= 1041: True (4.0)
+|   |   |   |   |   |   |   |   |   |   |   |   object_dist > 1041: False (5.0)
+|   |   |   |   |   |   |   |   |   |   |   word_dist > 116: True (12.0)
+|   |   |   |   |   |   |   |   |   |   speaker_turns > 163: False (8.0)
+|   |   |   |   |   |   |   |   word_dist > 127: False (391.0/19.0)
+|   |   |   |   |   |   |   object_dist > 1374
+|   |   |   |   |   |   |   |   word_dist <= 158: True (8.0/1.0)
+|   |   |   |   |   |   |   |   word_dist > 158
+|   |   |   |   |   |   |   |   |   word_dist <= 175: False (23.0/2.0)
+|   |   |   |   |   |   |   |   |   word_dist > 175
+|   |   |   |   |   |   |   |   |   |   speaker_turns <= 249
+|   |   |   |   |   |   |   |   |   |   |   dep1 <= 3: False (2.0)
+|   |   |   |   |   |   |   |   |   |   |   dep1 > 3: True (15.0/4.0)
+|   |   |   |   |   |   |   |   |   |   speaker_turns > 249: False (4.0)
+|   |   |   |   |   |   word_dist > 183: False (1901.0/95.0)
+|   |   |   |   |   dep2 > 7
+|   |   |   |   |   |   word_dist <= 225
+|   |   |   |   |   |   |   speaker_turns <= 196
+|   |   |   |   |   |   |   |   word_dist <= 151
+|   |   |   |   |   |   |   |   |   speaker_turns <= 64
+|   |   |   |   |   |   |   |   |   |   object_dist <= 113: True (4.0/1.0)
+|   |   |   |   |   |   |   |   |   |   object_dist > 113: False (29.0/1.0)
+|   |   |   |   |   |   |   |   |   speaker_turns > 64
+|   |   |   |   |   |   |   |   |   |   word_dist <= 98: True (10.0)
+|   |   |   |   |   |   |   |   |   |   word_dist > 98
+|   |   |   |   |   |   |   |   |   |   |   speaker_turns <= 156
+|   |   |   |   |   |   |   |   |   |   |   |   speaker_turns <= 107
+|   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns <= 95: False (10.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   speaker_turns > 95: True (4.0)
+|   |   |   |   |   |   |   |   |   |   |   |   speaker_turns > 107: False (15.0)
+|   |   |   |   |   |   |   |   |   |   |   speaker_turns > 156: True (3.0)
+|   |   |   |   |   |   |   |   word_dist > 151: False (28.0)
+|   |   |   |   |   |   |   speaker_turns > 196: True (18.0/3.0)
+|   |   |   |   |   |   word_dist > 225
+|   |   |   |   |   |   |   object_dist <= 2034: False (35.0)
+|   |   |   |   |   |   |   object_dist > 2034
+|   |   |   |   |   |   |   |   word_dist <= 311
+|   |   |   |   |   |   |   |   |   dep1 <= 7: True (3.0)
+|   |   |   |   |   |   |   |   |   dep1 > 7
+|   |   |   |   |   |   |   |   |   |   word_dist <= 259: True (2.0)
+|   |   |   |   |   |   |   |   |   |   word_dist > 259: False (6.0/1.0)
+|   |   |   |   |   |   |   |   word_dist > 311: False (67.0/5.0)
+|   |   |   |   dep2 > 8: False (1793.0/59.0)
+|   |   grammer2 = SBAR: False (690.0/72.0)
+|   |   grammer2 = SBARQ: False (0.0)
+|   |   grammer2 = -SBJ: False (0.0)
+|   |   grammer2 = SINV
+|   |   |   word_dist <= 144
+|   |   |   |   object_dist <= 831: False (83.0/11.0)
+|   |   |   |   object_dist > 831
+|   |   |   |   |   speaker_turns <= 121: True (6.0)
+|   |   |   |   |   speaker_turns > 121
+|   |   |   |   |   |   object_dist <= 1056: False (14.0/1.0)
+|   |   |   |   |   |   object_dist > 1056
+|   |   |   |   |   |   |   speaker_turns <= 160: True (3.0)
+|   |   |   |   |   |   |   speaker_turns > 160
+|   |   |   |   |   |   |   |   word_dist <= 135: False (2.0)
+|   |   |   |   |   |   |   |   word_dist > 135: True (2.0)
+|   |   |   word_dist > 144: False (159.0/11.0)
+|   |   grammer2 = SQ: False (0.0)
+|   |   grammer2 = SYM: False (0.0)
+|   |   grammer2 = -TMP: False (0.0)
+|   |   grammer2 = TO: False (0.0)
+|   |   grammer2 = -TPC: False (0.0)
+|   |   grammer2 = -TTL: False (0.0)
+|   |   grammer2 = UCP: False (0.0)
+|   |   grammer2 = UH: False (0.0)
+|   |   grammer2 = VB: False (0.0)
+|   |   grammer2 = VBD: False (0.0)
+|   |   grammer2 = VBG: False (0.0)
+|   |   grammer2 = VBN: False (0.0)
+|   |   grammer2 = VBP: False (0.0)
+|   |   grammer2 = VBZ: False (0.0)
+|   |   grammer2 = -VOC: False (0.0)
+|   |   grammer2 = VP: False (421.0/32.0)
+|   |   grammer2 = WDT
+|   |   |   dep2 <= 5: False (90.0)
+|   |   |   dep2 > 5
+|   |   |   |   word_dist <= 283
+|   |   |   |   |   speaker_turns <= 244
+|   |   |   |   |   |   speaker_turns <= 158
+|   |   |   |   |   |   |   object_dist <= 712
+|   |   |   |   |   |   |   |   speaker_turns <= 98: False (111.0/11.0)
+|   |   |   |   |   |   |   |   speaker_turns > 98: True (4.0)
+|   |   |   |   |   |   |   object_dist > 712: False (69.0/3.0)
+|   |   |   |   |   |   speaker_turns > 158
+|   |   |   |   |   |   |   object_dist <= 1203: True (10.0)
+|   |   |   |   |   |   |   object_dist > 1203: False (62.0/4.0)
+|   |   |   |   |   speaker_turns > 244: True (20.0/3.0)
+|   |   |   |   word_dist > 283: False (169.0/13.0)
+|   |   grammer2 = WHADJP: False (0.0)
+|   |   grammer2 = WHADVP: False (0.0)
+|   |   grammer2 = WHNP: False (0.0)
+|   |   grammer2 = WHPP: False (0.0)
+|   |   grammer2 = WP: False (169.0/1.0)
+|   |   grammer2 = WP$: False (0.0)
+|   |   grammer2 = WP-S: False (0.0)
+|   |   grammer2 = WRB: False (0.0)
+|   |   grammer2 = X: False (0.0)
+|   |   grammer2 = NP-TMP: False (0.0)
+|   grammer1 = NX: False (148.0)
+|   grammer1 = PDT: False (0.0)
+|   grammer1 = POS: False (0.0)
+|   grammer1 = PP
+|   |   word_dist <= 20
+|   |   |   object_dist <= 166: False (8.0)
+|   |   |   object_dist > 166: True (2.0)
+|   |   word_dist > 20: False (171.0)
+|   grammer1 = -PRD: False (0.0)
+|   grammer1 = PRN: False (0.0)
+|   grammer1 = PRP: False (116.0)
+|   grammer1 = -PRP: False (0.0)
+|   grammer1 = PRP$: False (0.0)
+|   grammer1 = PRP-S: False (0.0)
+|   grammer1 = PRT: False (0.0)
+|   grammer1 = -PUT: False (0.0)
+|   grammer1 = QP: False (0.0)
+|   grammer1 = RB: False (0.0)
+|   grammer1 = RBR: False (0.0)
+|   grammer1 = RBS: False (0.0)
+|   grammer1 = RP: False (0.0)
+|   grammer1 = RRC: False (0.0)
+|   grammer1 = S
+|   |   dep1 <= 5: False (1179.0/26.0)
+|   |   dep1 > 5
+|   |   |   dep1 <= 6
+|   |   |   |   speaker_turns <= 305
+|   |   |   |   |   grammer2 = ADJP: False (0.0)
+|   |   |   |   |   grammer2 = -ADV: False (0.0)
+|   |   |   |   |   grammer2 = ADVP: False (0.0)
+|   |   |   |   |   grammer2 = -BNF: False (0.0)
+|   |   |   |   |   grammer2 = CC: False (0.0)
+|   |   |   |   |   grammer2 = CD: False (0.0)
+|   |   |   |   |   grammer2 = -CLF: False (0.0)
+|   |   |   |   |   grammer2 = -CLR: False (0.0)
+|   |   |   |   |   grammer2 = CONJP: False (0.0)
+|   |   |   |   |   grammer2 = -DIR: False (0.0)
+|   |   |   |   |   grammer2 = DT: False (7.0/1.0)
+|   |   |   |   |   grammer2 = -DTV: False (0.0)
+|   |   |   |   |   grammer2 = EX: False (2.0)
+|   |   |   |   |   grammer2 = -EXT: False (0.0)
+|   |   |   |   |   grammer2 = FRAG: False (0.0)
+|   |   |   |   |   grammer2 = FW: False (0.0)
+|   |   |   |   |   grammer2 = -HLN: False (0.0)
+|   |   |   |   |   grammer2 = IN: True (4.0/1.0)
+|   |   |   |   |   grammer2 = INTJ: False (0.0)
+|   |   |   |   |   grammer2 = JJ: False (0.0)
+|   |   |   |   |   grammer2 = JJR: False (0.0)
+|   |   |   |   |   grammer2 = JJS: False (0.0)
+|   |   |   |   |   grammer2 = -LGS: False (0.0)
+|   |   |   |   |   grammer2 = -LOC: False (0.0)
+|   |   |   |   |   grammer2 = LS: False (0.0)
+|   |   |   |   |   grammer2 = LST: False (0.0)
+|   |   |   |   |   grammer2 = MD: False (0.0)
+|   |   |   |   |   grammer2 = -MNR: False (0.0)
+|   |   |   |   |   grammer2 = NAC: False (0.0)
+|   |   |   |   |   grammer2 = NN: False (0.0)
+|   |   |   |   |   grammer2 = NNS: False (0.0)
+|   |   |   |   |   grammer2 = NNP: False (0.0)
+|   |   |   |   |   grammer2 = NNPS: False (0.0)
+|   |   |   |   |   grammer2 = -NOM: False (0.0)
+|   |   |   |   |   grammer2 = NP
+|   |   |   |   |   |   word_dist <= 241: False (9.0/1.0)
+|   |   |   |   |   |   word_dist > 241: True (2.0)
+|   |   |   |   |   grammer2 = NX: False (0.0)
+|   |   |   |   |   grammer2 = PDT: False (0.0)
+|   |   |   |   |   grammer2 = POS: False (0.0)
+|   |   |   |   |   grammer2 = PP: False (0.0)
+|   |   |   |   |   grammer2 = -PRD: False (0.0)
+|   |   |   |   |   grammer2 = PRN: False (0.0)
+|   |   |   |   |   grammer2 = PRP
+|   |   |   |   |   |   speaker_turns <= 216
+|   |   |   |   |   |   |   speaker_turns <= 152
+|   |   |   |   |   |   |   |   speaker_turns <= 93
+|   |   |   |   |   |   |   |   |   word_dist <= 36: True (2.0)
+|   |   |   |   |   |   |   |   |   word_dist > 36: False (4.0)
+|   |   |   |   |   |   |   |   speaker_turns > 93: True (10.0)
+|   |   |   |   |   |   |   speaker_turns > 152: False (8.0)
+|   |   |   |   |   |   speaker_turns > 216: True (6.0)
+|   |   |   |   |   grammer2 = -PRP: False (0.0)
+|   |   |   |   |   grammer2 = PRP$: False (1.0)
+|   |   |   |   |   grammer2 = PRP-S: False (0.0)
+|   |   |   |   |   grammer2 = PRT: False (0.0)
+|   |   |   |   |   grammer2 = -PUT: False (0.0)
+|   |   |   |   |   grammer2 = QP: False (0.0)
+|   |   |   |   |   grammer2 = RB
+|   |   |   |   |   |   dep2 <= 9: False (5.0/1.0)
+|   |   |   |   |   |   dep2 > 9: True (2.0)
+|   |   |   |   |   grammer2 = RBR: False (0.0)
+|   |   |   |   |   grammer2 = RBS: False (0.0)
+|   |   |   |   |   grammer2 = RP: False (0.0)
+|   |   |   |   |   grammer2 = RRC: False (0.0)
+|   |   |   |   |   grammer2 = S
+|   |   |   |   |   |   dep2 <= 2: False (3.0)
+|   |   |   |   |   |   dep2 > 2
+|   |   |   |   |   |   |   dep2 <= 4: True (4.0)
+|   |   |   |   |   |   |   dep2 > 4: False (6.0/2.0)
+|   |   |   |   |   grammer2 = SBAR: True (1.0)
+|   |   |   |   |   grammer2 = SBARQ: False (0.0)
+|   |   |   |   |   grammer2 = -SBJ: False (0.0)
+|   |   |   |   |   grammer2 = SINV: True (1.0)
+|   |   |   |   |   grammer2 = SQ: False (0.0)
+|   |   |   |   |   grammer2 = SYM: False (0.0)
+|   |   |   |   |   grammer2 = -TMP: False (0.0)
+|   |   |   |   |   grammer2 = TO: False (0.0)
+|   |   |   |   |   grammer2 = -TPC: False (0.0)
+|   |   |   |   |   grammer2 = -TTL: False (0.0)
+|   |   |   |   |   grammer2 = UCP: False (0.0)
+|   |   |   |   |   grammer2 = UH: False (0.0)
+|   |   |   |   |   grammer2 = VB: False (0.0)
+|   |   |   |   |   grammer2 = VBD: False (0.0)
+|   |   |   |   |   grammer2 = VBG: False (0.0)
+|   |   |   |   |   grammer2 = VBN: False (0.0)
+|   |   |   |   |   grammer2 = VBP: False (0.0)
+|   |   |   |   |   grammer2 = VBZ: False (0.0)
+|   |   |   |   |   grammer2 = -VOC: False (0.0)
+|   |   |   |   |   grammer2 = VP: False (0.0)
+|   |   |   |   |   grammer2 = WDT: True (1.0)
+|   |   |   |   |   grammer2 = WHADJP: False (0.0)
+|   |   |   |   |   grammer2 = WHADVP: False (0.0)
+|   |   |   |   |   grammer2 = WHNP: False (0.0)
+|   |   |   |   |   grammer2 = WHPP: False (0.0)
+|   |   |   |   |   grammer2 = WP: False (0.0)
+|   |   |   |   |   grammer2 = WP$: False (0.0)
+|   |   |   |   |   grammer2 = WP-S: False (0.0)
+|   |   |   |   |   grammer2 = WRB: False (0.0)
+|   |   |   |   |   grammer2 = X: False (0.0)
+|   |   |   |   |   grammer2 = NP-TMP: False (0.0)
+|   |   |   |   speaker_turns > 305: False (64.0/5.0)
+|   |   |   dep1 > 6: False (70.0/4.0)
+|   grammer1 = SBAR: False (217.0/13.0)
+|   grammer1 = SBARQ: False (0.0)
+|   grammer1 = -SBJ: False (0.0)
+|   grammer1 = SINV: False (227.0/1.0)
+|   grammer1 = SQ: False (0.0)
+|   grammer1 = SYM: False (0.0)
+|   grammer1 = -TMP: False (0.0)
+|   grammer1 = TO: False (0.0)
+|   grammer1 = -TPC: False (0.0)
+|   grammer1 = -TTL: False (0.0)
+|   grammer1 = UCP: False (0.0)
+|   grammer1 = UH: False (0.0)
+|   grammer1 = VB: False (208.0/7.0)
+|   grammer1 = VBD: False (0.0)
+|   grammer1 = VBG: False (0.0)
+|   grammer1 = VBN: False (0.0)
+|   grammer1 = VBP: False (0.0)
+|   grammer1 = VBZ: False (0.0)
+|   grammer1 = -VOC: False (0.0)
+|   grammer1 = VP
+|   |   word_dist <= 36
+|   |   |   grammer2 = ADJP: False (0.0)
+|   |   |   grammer2 = -ADV: False (0.0)
+|   |   |   grammer2 = ADVP: False (0.0)
+|   |   |   grammer2 = -BNF: False (0.0)
+|   |   |   grammer2 = CC: True (1.0)
+|   |   |   grammer2 = CD: False (0.0)
+|   |   |   grammer2 = -CLF: False (0.0)
+|   |   |   grammer2 = -CLR: False (0.0)
+|   |   |   grammer2 = CONJP: False (0.0)
+|   |   |   grammer2 = -DIR: False (0.0)
+|   |   |   grammer2 = DT
+|   |   |   |   word_dist <= 20: False (6.0/1.0)
+|   |   |   |   word_dist > 20
+|   |   |   |   |   dep1 <= 4: False (2.0)
+|   |   |   |   |   dep1 > 4: True (6.0)
+|   |   |   grammer2 = -DTV: False (0.0)
+|   |   |   grammer2 = EX
+|   |   |   |   dep1 <= 5: False (4.0)
+|   |   |   |   dep1 > 5: True (6.0)
+|   |   |   grammer2 = -EXT: False (0.0)
+|   |   |   grammer2 = FRAG: False (0.0)
+|   |   |   grammer2 = FW: False (0.0)
+|   |   |   grammer2 = -HLN: False (0.0)
+|   |   |   grammer2 = IN: True (2.0/1.0)
+|   |   |   grammer2 = INTJ: False (0.0)
+|   |   |   grammer2 = JJ: False (0.0)
+|   |   |   grammer2 = JJR: False (0.0)
+|   |   |   grammer2 = JJS: False (0.0)
+|   |   |   grammer2 = -LGS: False (0.0)
+|   |   |   grammer2 = -LOC: False (0.0)
+|   |   |   grammer2 = LS: False (0.0)
+|   |   |   grammer2 = LST: False (0.0)
+|   |   |   grammer2 = MD: False (0.0)
+|   |   |   grammer2 = -MNR: False (0.0)
+|   |   |   grammer2 = NAC: False (0.0)
+|   |   |   grammer2 = NN: False (0.0)
+|   |   |   grammer2 = NNS: False (0.0)
+|   |   |   grammer2 = NNP: False (0.0)
+|   |   |   grammer2 = NNPS: False (0.0)
+|   |   |   grammer2 = -NOM: False (0.0)
+|   |   |   grammer2 = NP: False (62.0/1.0)
+|   |   |   grammer2 = NX: False (0.0)
+|   |   |   grammer2 = PDT: False (0.0)
+|   |   |   grammer2 = POS: False (0.0)
+|   |   |   grammer2 = PP: False (0.0)
+|   |   |   grammer2 = -PRD: False (0.0)
+|   |   |   grammer2 = PRN: False (0.0)
+|   |   |   grammer2 = PRP
+|   |   |   |   dep1 <= 7
+|   |   |   |   |   dep1 <= 5
+|   |   |   |   |   |   dep1 <= 4
+|   |   |   |   |   |   |   dep1 <= 2
+|   |   |   |   |   |   |   |   word_dist <= 19
+|   |   |   |   |   |   |   |   |   dep2 <= 11: True (3.0)
+|   |   |   |   |   |   |   |   |   dep2 > 11: False (2.0)
+|   |   |   |   |   |   |   |   word_dist > 19: False (6.0)
+|   |   |   |   |   |   |   dep1 > 2: False (19.0/1.0)
+|   |   |   |   |   |   dep1 > 4: True (7.0/1.0)
+|   |   |   |   |   dep1 > 5: False (20.0)
+|   |   |   |   dep1 > 7
+|   |   |   |   |   speaker_turns <= 21
+|   |   |   |   |   |   speaker_turns <= 8: False (4.0)
+|   |   |   |   |   |   speaker_turns > 8
+|   |   |   |   |   |   |   dep1 <= 10: True (12.0/1.0)
+|   |   |   |   |   |   |   dep1 > 10: False (6.0/2.0)
+|   |   |   |   |   speaker_turns > 21
+|   |   |   |   |   |   dep2 <= 4
+|   |   |   |   |   |   |   speaker_turns <= 32: False (9.0/1.0)
+|   |   |   |   |   |   |   speaker_turns > 32: True (5.0/1.0)
+|   |   |   |   |   |   dep2 > 4: False (11.0)
+|   |   |   grammer2 = -PRP: False (0.0)
+|   |   |   grammer2 = PRP$: False (2.0)
+|   |   |   grammer2 = PRP-S: False (0.0)
+|   |   |   grammer2 = PRT: False (0.0)
+|   |   |   grammer2 = -PUT: False (0.0)
+|   |   |   grammer2 = QP: False (0.0)
+|   |   |   grammer2 = RB: False (148.0/6.0)
+|   |   |   grammer2 = RBR: False (0.0)
+|   |   |   grammer2 = RBS: False (0.0)
+|   |   |   grammer2 = RP: False (0.0)
+|   |   |   grammer2 = RRC: False (0.0)
+|   |   |   grammer2 = S
+|   |   |   |   speaker_turns <= 9: True (2.0)
+|   |   |   |   speaker_turns > 9: False (32.0/4.0)
+|   |   |   grammer2 = SBAR: False (0.0)
+|   |   |   grammer2 = SBARQ: False (0.0)
+|   |   |   grammer2 = -SBJ: False (0.0)
+|   |   |   grammer2 = SINV: False (3.0/1.0)
+|   |   |   grammer2 = SQ: False (0.0)
+|   |   |   grammer2 = SYM: False (0.0)
+|   |   |   grammer2 = -TMP: False (0.0)
+|   |   |   grammer2 = TO: False (0.0)
+|   |   |   grammer2 = -TPC: False (0.0)
+|   |   |   grammer2 = -TTL: False (0.0)
+|   |   |   grammer2 = UCP: False (0.0)
+|   |   |   grammer2 = UH: False (0.0)
+|   |   |   grammer2 = VB: False (0.0)
+|   |   |   grammer2 = VBD: False (0.0)
+|   |   |   grammer2 = VBG: False (0.0)
+|   |   |   grammer2 = VBN: False (0.0)
+|   |   |   grammer2 = VBP: False (0.0)
+|   |   |   grammer2 = VBZ: False (0.0)
+|   |   |   grammer2 = -VOC: False (0.0)
+|   |   |   grammer2 = VP: False (0.0)
+|   |   |   grammer2 = WDT: False (0.0)
+|   |   |   grammer2 = WHADJP: False (0.0)
+|   |   |   grammer2 = WHADVP: False (0.0)
+|   |   |   grammer2 = WHNP: False (0.0)
+|   |   |   grammer2 = WHPP: False (0.0)
+|   |   |   grammer2 = WP: False (0.0)
+|   |   |   grammer2 = WP$: False (0.0)
+|   |   |   grammer2 = WP-S: False (0.0)
+|   |   |   grammer2 = WRB: False (0.0)
+|   |   |   grammer2 = X: False (0.0)
+|   |   |   grammer2 = NP-TMP: False (0.0)
+|   |   word_dist > 36: False (3598.0/95.0)
+|   grammer1 = WDT: False (0.0)
+|   grammer1 = WHADJP: False (0.0)
+|   grammer1 = WHADVP: False (0.0)
+|   grammer1 = WHNP: False (0.0)
+|   grammer1 = WHPP: False (0.0)
+|   grammer1 = WP: False (0.0)
+|   grammer1 = WP$: False (0.0)
+|   grammer1 = WP-S: False (0.0)
+|   grammer1 = WRB: False (43.0)
+|   grammer1 = X: False (152.0)
+|   grammer1 = NP-TMP: False (46.0)
+
+Number of Leaves  : 	1201
+
+Size of the tree : 	1737
+
+
+Time taken to build model: 12.04 seconds
+Time taken to test model on training data: 0.95 seconds
+
+=== Error on training data ===
+
+Correctly Classified Instances      145993               96.1283 %
+Incorrectly Classified Instances      5880                3.8717 %
+Kappa statistic                          0.3789
+Mean absolute error                      0.0698
+Root mean squared error                  0.1868
+Relative absolute error                 74.6218 %
+Root relative squared error             86.3864 %
+Total Number of Instances           151873     
+
+
+=== Confusion Matrix ===
+
+      a      b   <-- classified as
+   1902   5570 |      a = True
+    310 144091 |      b = False
+
+
+
+=== Stratified cross-validation ===
+
+Correctly Classified Instances      144816               95.3534 %
+Incorrectly Classified Instances      7057                4.6466 %
+Kappa statistic                          0.1974
+Mean absolute error                      0.0814
+Root mean squared error                  0.2053
+Relative absolute error                 86.9677 %
+Root relative squared error             94.9052 %
+Total Number of Instances           151873     
+
+
+=== Confusion Matrix ===
+
+      a      b   <-- classified as
+    940   6532 |      a = True
+    525 143876 |      b = False
+

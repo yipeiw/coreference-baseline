@@ -1,0 +1,45 @@
+/home/yipeiw/Documents/baseline/preprocess/ExtractSentence.py /home/yipeiw/Documents/data/CESAR/CESAR_Jun-Sun-3-09-09-17-2012/raw.xml /home/yipeiw/Documents/baseline/preprocess/sentence/BySpeaker/CESAR_Jun-Sun-3-09-09-17-2012.sent /home/yipeiw/Documents/baseline/preprocess/sentence/BySpeaker/CESAR_Jun-Sun-3-09-09-17-2012.idx
+length of sentence 607, after merged:521
+ave sentence length 8.000
+/home/yipeiw/Documents/baseline/preprocess/ExtractSentence.py /home/yipeiw/Documents/data/CESAR/CESAR_Jun-Sun-3-11-10-36-2012/raw.xml /home/yipeiw/Documents/baseline/preprocess/sentence/BySpeaker/CESAR_Jun-Sun-3-11-10-36-2012.sent /home/yipeiw/Documents/baseline/preprocess/sentence/BySpeaker/CESAR_Jun-Sun-3-11-10-36-2012.idx
+length of sentence 437, after merged:383
+ave sentence length 9.000
+/home/yipeiw/Documents/baseline/preprocess/ExtractSentence.py /home/yipeiw/Documents/data/CESAR/CESAR_Jun-Sun-3-13-01-47-2012/raw.xml /home/yipeiw/Documents/baseline/preprocess/sentence/BySpeaker/CESAR_Jun-Sun-3-13-01-47-2012.sent /home/yipeiw/Documents/baseline/preprocess/sentence/BySpeaker/CESAR_Jun-Sun-3-13-01-47-2012.idx
+length of sentence 617, after merged:539
+ave sentence length 6.000
+/home/yipeiw/Documents/baseline/preprocess/ExtractSentence.py /home/yipeiw/Documents/data/CESAR/CESAR_Jun-Thu-21-09-08-54-2012/raw.xml /home/yipeiw/Documents/baseline/preprocess/sentence/BySpeaker/CESAR_Jun-Thu-21-09-08-54-2012.sent /home/yipeiw/Documents/baseline/preprocess/sentence/BySpeaker/CESAR_Jun-Thu-21-09-08-54-2012.idx
+length of sentence 1040, after merged:769
+ave sentence length 8.000
+/home/yipeiw/Documents/baseline/preprocess/ExtractSentence.py /home/yipeiw/Documents/data/CESAR/CESAR_Jun-Thu-21-11-04-52-2012/raw.xml /home/yipeiw/Documents/baseline/preprocess/sentence/BySpeaker/CESAR_Jun-Thu-21-11-04-52-2012.sent /home/yipeiw/Documents/baseline/preprocess/sentence/BySpeaker/CESAR_Jun-Thu-21-11-04-52-2012.idx
+length of sentence 418, after merged:349
+ave sentence length 9.000
+/home/yipeiw/Documents/baseline/preprocess/ExtractSentence.py /home/yipeiw/Documents/data/CESAR/CESAR_Jun-Thu-21-13-30-23-2012/raw.xml /home/yipeiw/Documents/baseline/preprocess/sentence/BySpeaker/CESAR_Jun-Thu-21-13-30-23-2012.sent /home/yipeiw/Documents/baseline/preprocess/sentence/BySpeaker/CESAR_Jun-Thu-21-13-30-23-2012.idx
+length of sentence 388, after merged:330
+ave sentence length 10.000
+/home/yipeiw/Documents/baseline/preprocess/ExtractSentence.py /home/yipeiw/Documents/data/CESAR/CESAR_Jun-Thu-21-17-12-36-2012/raw.xml /home/yipeiw/Documents/baseline/preprocess/sentence/BySpeaker/CESAR_Jun-Thu-21-17-12-36-2012.sent /home/yipeiw/Documents/baseline/preprocess/sentence/BySpeaker/CESAR_Jun-Thu-21-17-12-36-2012.idx
+length of sentence 544, after merged:485
+ave sentence length 6.000
+/home/yipeiw/Documents/baseline/preprocess/ExtractSentence.py /home/yipeiw/Documents/data/CESAR/CESAR_May-Fri-25-14-55-42-2012/raw.xml /home/yipeiw/Documents/baseline/preprocess/sentence/BySpeaker/CESAR_May-Fri-25-14-55-42-2012.sent /home/yipeiw/Documents/baseline/preprocess/sentence/BySpeaker/CESAR_May-Fri-25-14-55-42-2012.idx
+length of sentence 761, after merged:653
+ave sentence length 6.000
+/home/yipeiw/Documents/baseline/preprocess/ExtractSentence.py /home/yipeiw/Documents/data/CESAR/CESAR_May-Fri-25-17-05-43-2012/raw.xml /home/yipeiw/Documents/baseline/preprocess/sentence/BySpeaker/CESAR_May-Fri-25-17-05-43-2012.sent /home/yipeiw/Documents/baseline/preprocess/sentence/BySpeaker/CESAR_May-Fri-25-17-05-43-2012.idx
+length of sentence 406, after merged:391
+ave sentence length 7.000
+/home/yipeiw/Documents/baseline/preprocess/ExtractSentence.py /home/yipeiw/Documents/data/CESAR/CESAR_May-Fri-25-19-15-14-2012/raw.xml /home/yipeiw/Documents/baseline/preprocess/sentence/BySpeaker/CESAR_May-Fri-25-19-15-14-2012.sent /home/yipeiw/Documents/baseline/preprocess/sentence/BySpeaker/CESAR_May-Fri-25-19-15-14-2012.idx
+length of sentence 376, after merged:337
+ave sentence length 8.000
+/home/yipeiw/Documents/baseline/preprocess/ExtractSentence.py /home/yipeiw/Documents/data/CESAR/CESAR_May-Thu-17-11-36-14-2012/raw.xml /home/yipeiw/Documents/baseline/preprocess/sentence/BySpeaker/CESAR_May-Thu-17-11-36-14-2012.sent /home/yipeiw/Documents/baseline/preprocess/sentence/BySpeaker/CESAR_May-Thu-17-11-36-14-2012.idx
+length of sentence 367, after merged:348
+ave sentence length 7.000
+/home/yipeiw/Documents/baseline/preprocess/ExtractSentence.py /home/yipeiw/Documents/data/CESAR/CESAR_May-Thu-31-09-17-54-2012/raw.xml /home/yipeiw/Documents/baseline/preprocess/sentence/BySpeaker/CESAR_May-Thu-31-09-17-54-2012.sent /home/yipeiw/Documents/baseline/preprocess/sentence/BySpeaker/CESAR_May-Thu-31-09-17-54-2012.idx
+length of sentence 500, after merged:439
+ave sentence length 6.000
+/home/yipeiw/Documents/baseline/preprocess/ExtractSentence.py /home/yipeiw/Documents/data/CESAR/CESAR_May-Thu-31-11-21-35-2012/raw.xml /home/yipeiw/Documents/baseline/preprocess/sentence/BySpeaker/CESAR_May-Thu-31-11-21-35-2012.sent /home/yipeiw/Documents/baseline/preprocess/sentence/BySpeaker/CESAR_May-Thu-31-11-21-35-2012.idx
+length of sentence 368, after merged:327
+ave sentence length 7.000
+/home/yipeiw/Documents/baseline/preprocess/ExtractSentence.py /home/yipeiw/Documents/data/CESAR/CESAR_May-Thu-31-15-06-55-2012/raw.xml /home/yipeiw/Documents/baseline/preprocess/sentence/BySpeaker/CESAR_May-Thu-31-15-06-55-2012.sent /home/yipeiw/Documents/baseline/preprocess/sentence/BySpeaker/CESAR_May-Thu-31-15-06-55-2012.idx
+length of sentence 267, after merged:225
+ave sentence length 12.000
+/home/yipeiw/Documents/baseline/preprocess/ExtractSentence.py /home/yipeiw/Documents/data/CESAR/CESAR_May-Tue-29-13-06-47-2012/raw.xml /home/yipeiw/Documents/baseline/preprocess/sentence/BySpeaker/CESAR_May-Tue-29-13-06-47-2012.sent /home/yipeiw/Documents/baseline/preprocess/sentence/BySpeaker/CESAR_May-Tue-29-13-06-47-2012.idx
+length of sentence 796, after merged:674
+ave sentence length 6.000
